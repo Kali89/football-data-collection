@@ -1,0 +1,2548 @@
+24155,Tom Heaton,Burnley
+50065,David Ospina,Arsenal
+191869,Kieran Trippier,Burnley,Tottenham
+35606,Hector Bellerin,Arsenal
+43252,Michael Duff,Burnley
+46539,Per Mertesacker,Arsenal
+23134,Jason Shackell,Burnley
+38521,Laurent Koscielny,Arsenal
+240538,Ben Mee,Burnley
+427438,Nacho Monreal,Arsenal
+25415,George Boyd,Burnley
+36378,Francis Coquelin,Arsenal
+32304,Scott Arfield,Burnley
+75489,Aaron Ramsey,Arsenal
+107280,David Jones,Burnley
+50047,Mesut Oezil,Arsenal,Manchester United
+37240,Ashley Barnes,Burnley
+37436,Santi Cazorla,Arsenal,Villarreal
+46898,Sam Vokes,Burnley
+159594,Alexis Sanchez,Arsenal,Valencia
+214426,Danny Ings,Burnley,Liverpool,Southampton
+46469,Olivier Giroud,Arsenal,Chelsea
+37868,Simon Mignolet,Liverpool
+24229,Tim Krul,Newcastle United
+34036,Glen Johnson,Liverpool,Stoke
+24890,Ryan Taylor,Newcastle United
+114268,Emre Can,Liverpool
+24899,Mike Williamson,Newcastle United
+314605,Dejan Lovren,Liverpool
+109652,Daryl Janmaat,Newcastle United
+307021,Alberto Moreno,Liverpool
+104482,Vurnon Anita,Newcastle United,Watford
+156008,Jordan Henderson,Liverpool
+94550,Mehdi Abeid,Newcastle United,Tottenham
+95327,Lucas Leiva,Liverpool
+160243,Jack Colback,Newcastle United
+47558,Joe Allen,Liverpool,Stoke
+199834,Remy Cabella,Newcastle United
+184536,Jordon Ibe,Liverpool,Barcelona
+39968,Moussa Sissoko,Newcastle United
+246575,Raheem Sterling,Liverpool,Manchester City
+301234,Gabriel Obertan,Newcastle United
+280653,Philippe Coutinho,Liverpool,Bournemouth
+479020,Ayoze Perez,Newcastle United
+35496,Kelvin Davis,Southampton
+24227,Steve Harper,Hull
+72665,Toby Alderweireld,Southampton
+35480,James Chester,Hull
+26552,Jose Fonte,Southampton,West Ham
+163200,Michael Dawson,Hull,West Bromwich Albion
+160599,Maya Yoshida,Southampton,Tottenham
+40132,Alex Bruce,Hull
+46010,Ryan Bertrand,Southampton
+24531,Paul McShane,Hull
+46893,Victor Wanyama,Southampton,Manchester United,Everton
+24656,Ahmed El Mohamady,Hull
+23293,Morgan Schneiderlin,Southampton
+115681,Jake Livermore,Hull,West Bromwich Albion
+23792,Shane Long,Southampton
+111930,Tom Huddlestone,Hull
+303339,Steven Davis,Southampton,Liverpool
+21864,Stephen Quinn,Hull
+166676,Sadio Mane,Southampton,Tottenham
+23839,Sone Aluko,Hull
+41280,Graziano Pelle,Southampton
+101969,Dame N'Doye,Hull,Sunderland
+182917,David De Gea,Manchester United
+31432,Joe Hart,Manchester City,West Ham,Burnley
+186137,Antonio Valencia,Manchester United
+39027,Pablo Zabaleta,Manchester City
+165823,Phil Jones,Manchester United
+30509,Vincent Kompany,Manchester City,West Ham
+161012,Chris Smalling,Manchester United
+31291,Martin Demichelis,Manchester City
+35327,Daley Blind,Manchester United
+30459,Gael Clichy,Manchester City,Malaga
+41468,Michael Carrick,Manchester United
+38807,Fernandinho,Manchester City,Liverpool
+34944,Juan Mata,Manchester United
+33991,Yaya Toure,Manchester City,Sevilla
+23354,Ander Herrera,Manchester United
+37459,Jesus Navas,Manchester City
+164676,Marouane Fellaini,Manchester United
+40196,David Silva,Manchester City
+39618,Ashley Young,Manchester United
+36615,James Milner,Manchester City
+30829,Wayne Rooney,Manchester United,Everton
+37412,Sergio Aguero,Manchester City
+36374,Robert Green,Queens Park Rangers
+170323,Thibaut Courtois,Chelsea,Real Madrid
+176889,Mauricio Isla,Queens Park Rangers,Southampton
+31306,Branislav Ivanovic,Chelsea
+23311,Nedum Onuoha,Queens Park Rangers
+23783,Gary Cahill,Chelsea
+109298,Steven Caulker,Queens Park Rangers
+30627,John Terry,Chelsea
+24209,Clint Hill,Queens Park Rangers
+72541,Cesar Azpilicueta,Chelsea
+127133,Matthew Phillips,Queens Park Rangers,West Bromwich Albion
+30613,Nemanja Matic,Chelsea
+24205,Sandro,Queens Park Rangers,Burnley
+79574,Ramires,Chelsea
+35466,Joey Barton,Queens Park Rangers
+107417,Willian,Chelsea
+156727,Karl Henry,Queens Park Rangers,West Bromwich Albion
+115067,Cesc Fabregas,Chelsea,Manchester United
+187266,Charlie Austin,Queens Park Rangers,Southampton
+94086,Eden Hazard,Chelsea
+24741,Bobby Zamora,Queens Park Rangers
+30822,Didier Drogba,Chelsea
+23021,Boaz Myhill,West Bromwich Albion
+26527,Craig Dawson,West Bromwich Albion
+33086,Gareth McAuley,West Bromwich Albion,Aston Villa,Sunderland
+32441,Jonas Olsson,West Bromwich Albion
+575780,Daley Blind,Manchester United,Sunderland
+169162,Joleon Lescott,West Bromwich Albion
+113968,Youssuf Mulumbu,West Bromwich Albion
+25075,Craig Gardner,West Bromwich Albion
+23257,Darren Fletcher,West Bromwich Albion
+71502,Claudio Yacob,West Bromwich Albion,Norwich
+24148,Chris Brunt,West Bromwich Albion,Manchester United,Stoke
+30843,Robin van Persie,Manchester United
+239807,Saido Berahino,West Bromwich Albion,Stoke
+37770,Kasper Schmeichel,Leicester
+23571,Marcin Wasilewski,Leicester
+30929,Daryl Janmaat,Newcastle United
+38899,Robert Huth,Leicester
+13423,Wes Morgan,Leicester
+173408,Marc Albrighton,Leicester
+308932,Paul Dummett,Newcastle United
+139671,Matthew James,Leicester
+214570,Esteban Cambiasso,Leicester,Crystal Palace
+30930,Jeffrey Schlupp,Leicester
+278343,Riyad Mahrez,Leicester,Manchester City
+33852,Moussa Sissoko,Newcastle United
+286119,Jamie Vardy,Leicester
+26554,Jose Leonardo Ulloa,Leicester,Brighton
+161420,Emmanuel Riviere,Newcastle United,Osasuna
+231801,Jake Livermore,Hull,Norwich,Burnley
+26295,Hugo Lloris,Tottenham
+46353,Eric Dier,Tottenham
+37762,Federico Fazio,Tottenham
+16351,Martin Demichelis,Manchester City
+361315,Jan Vertonghen,Tottenham
+156551,Eliaquim Mangala,Manchester City,Valencia
+95509,Danny Rose,Tottenham,Sevilla
+174850,Ryan Mason,Tottenham
+101103,Fernando,Manchester City
+110189,Nabil Bentaleb,Tottenham,West Bromwich Albion
+157723,Erik Lamela,Tottenham
+30631,James Milner,Manchester City
+160448,Christian Eriksen,Tottenham,Hull
+500520,Nacer Chadli,Tottenham,Schalke 04
+194165,Harry Kane,Tottenham
+22998,Julian Speroni,Crystal Palace
+146830,Adrian Mariappa,Crystal Palace
+23358,Scott Dann,Crystal Palace,Watford
+23837,Damien Delaney,Crystal Palace
+23030,Joel Ward,Crystal Palace
+198510,James McArthur,Crystal Palace
+28901,Joe Ledley,Crystal Palace
+149917,Jordon Mutch,Crystal Palace,Queens Park Rangers
+22929,Wilfried Zaha,Crystal Palace
+155066,Eden Hazard,Chelsea
+35345,Jason Puncheon,Crystal Palace
+160194,Yannick Bolasie,Crystal Palace,Everton
+128864,Oscar,Chelsea
+31465,Tim Howard,Everton
+24846,Seamus Coleman,Everton
+362694,Antonio Valencia,Manchester United
+23268,John Stones,Everton
+77690,Phil Jagielka,Everton
+263653,Leighton Baines,Everton,Manchester City
+101192,James McCarthy,Everton
+23782,Gareth Barry,Everton
+215384,Aaron Lennon,Everton,Chelsea
+24006,Ross Barkley,Everton
+30895,Leon Osman,Everton,Tottenham,Burnley
+181276,Romelu Lukaku,Everton,Manchester United
+157838,Nathaniel Clyne,Southampton,Liverpool
+276121,Ben Davies,Tottenham
+279490,Sadio Mane,Southampton
+46518,Asmir Begovic,Stoke,Chelsea,Bournemouth
+103428,Costel Pantilimon,Sunderland
+37194,Geoff Cameron,Stoke
+22964,Billy Jones,Sunderland
+40695,Ryan Shawcross,Stoke
+180330,Sebastian Coates,Sunderland,Crystal Palace
+119541,Philipp Wollscheid,Stoke
+24150,John O'Shea,Sunderland
+200962,Erik Pieters,Stoke,Mainz 05,Wolfsburg
+165526,Patrick van Aanholt,Sunderland
+24213,Charlie Adam,Stoke
+25150,William Buckley,Sunderland
+110148,Steven Nzonzi,Stoke,West Ham
+109058,Lee Cattermole,Sunderland
+109621,Jonathan Walters,Stoke,Sevilla
+118929,Jack Rodwell,Sunderland
+39109,Stephen Ireland,Stoke
+114218,Jordi Gomez,Sunderland
+33881,Marko Arnautovic,Stoke
+169721,Jermain Defoe,Sunderland,Crystal Palace
+72735,Mame Biram Diouf,Stoke
+30348,Connor Wickham,Sunderland,Bournemouth
+22764,Dejan Lovren,Liverpool
+30618,Jordan Henderson,Liverpool
+24171,Claudio Yacob,West Bromwich Albion
+25666,Victor Anichebe,West Bromwich Albion,Sunderland
+108808,Mario Balotelli,Liverpool
+37193,Michel Vorm,Tottenham
+114971,Paulinho,Tottenham,Barcelona
+31292,Yoan Gouffran,Newcastle United
+78513,Hector Bellerin,Arsenal,West Bromwich Albion
+143793,Aaron Ramsey,Arsenal,West Ham,Bournemouth
+35443,Lee Cattermole,Sunderland
+24159,Sebastian Larsson,Sunderland
+38759,Daniel Graham,Sunderland
+69650,Brad Guzan,Aston Villa,Middlesbrough
+30602,Leandro Bacuna,Aston Villa
+161414,Ron Vlaar,Aston Villa,Newcastle United
+183500,Ciaran Clark,Aston Villa
+30352,Kieran Richardson,Aston Villa
+160713,Tom Cleverley,Aston Villa,Manchester United,Everton,Watford
+78324,Carlos Sanchez,Aston Villa,Manchester City
+56972,Jack Grealish,Aston Villa,West Ham,Espanyol
+38820,Sandro,Queens Park Rangers
+312765,Fabian Delph,Aston Villa
+23264,Christian Benteke,Aston Villa
+148315,Gabriel Agbonlahor,Aston Villa,Liverpool,Crystal Palace
+169756,Adrian,West Ham
+35110,Carl Jenkinson,West Ham
+155782,James Collins,West Ham
+214685,Winston Reid,West Ham
+24751,Aaron Cresswell,West Ham
+148302,Alex Song,West Ham,Crystal Palace
+30892,Stewart Downing,West Ham,Middlesbrough
+37169,Cheikhou Kouyate,West Ham
+23678,Mark Noble,West Ham
+195927,Enner Valencia,West Ham,Everton
+34543,Carlton Cole,West Ham
+257847,Ron Vlaar,Aston Villa
+32870,Jores Okore,Aston Villa
+93484,Aly Cissokho,Aston Villa
+154271,Joe Ledley,Crystal Palace
+184360,Gabriel Agbonlahor,Aston Villa
+32496,Allan McGregor,Hull
+186054,Joel Robles,Everton,Real Betis
+24658,Alex Bruce,Hull
+357880,Curtis Davies,Hull,Liverpool
+11736,Leighton Baines,Everton,Las Palmas
+26151,Muhamed Besic,Everton
+131583,David Meyler,Hull
+32705,Gareth Barry,Everton,Norwich
+212866,Kevin Mirallas,Everton
+190872,Gaston Ramirez,Hull,Middlesbrough
+105548,Abel Hernandez,Hull
+8922,Nikica Jelavic,Hull,West Ham
+30922,Arouna Kone,Everton
+45571,Ben Hamer,Leicester,Huddersfield
+30831,Emre Can,Liverpool
+67850,Danny Simpson,Leicester
+94043,Kolo Toure,Liverpool,Crystal Palace
+49571,Marcin Wasilewski,Leicester
+173317,Riyad Mahrez,Leicester,Chelsea
+22894,Matthew James,Leicester
+37234,Raheem Sterling,Liverpool
+28955,Wilfredo Caballero,Manchester City,Chelsea
+30362,John O'Shea,Sunderland
+188540,Billy Jones,Sunderland,Getafe
+26181,Fernandinho,Manchester City,Sevilla
+92666,Stevan Jovetic,Manchester City,Sevilla
+159833,Kyle Walker,Tottenham,Manchester City
+166422,Nabil Bentaleb,Tottenham,Newcastle United,Crystal Palace
+19243,Diego Costa,Chelsea,Atletico Madrid
+35442,Bradley Jones,Liverpool
+290410,Ben Mee,Burnley,Everton
+34437,George Boyd,Burnley
+280260,Lazar Markovic,Liverpool,Hull
+169718,Wojciech Szczesny,Arsenal
+26154,Mathieu Debuchy,Arsenal
+30620,Rio Ferdinand,Queens Park Rangers
+63520,Mauricio Isla,Queens Park Rangers
+31435,Mathieu Flamini,Arsenal
+23688,Santi Cazorla,Arsenal,Crystal Palace,Getafe
+113836,Danny Welbeck,Arsenal
+50661,Charlie Austin,Queens Park Rangers,Hoffenheim
+95336,Fraser Forster,Southampton
+215245,Florin Gardos,Southampton
+8985,James McArthur,Crystal Palace
+24157,Fraizer Campbell,Crystal Palace
+173382,Ryan Shawcross,Stoke,Girona
+23253,Glenn Whelan,Stoke
+96643,Marko Arnautovic,Stoke,Mainz 05
+24781,Danny Simpson,Leicester
+103419,Danny Drinkwater,Leicester,Swansea
+192920,Christian Eriksen,Tottenham,Schalke 04
+23190,David Nugent,Leicester
+245530,Steven Caulker,Queens Park Rangers
+15403,Edin Dzeko,Manchester City
+30859,Petr Cech,Chelsea,Arsenal
+30973,Lukasz Fabianski,Swansea,West Ham
+102356,Kyle Naughton,Swansea
+24948,Federico Fernandez,Swansea,Everton
+111800,Ashley Williams,Swansea,Tottenham
+155050,Neil Taylor,Swansea,Newcastle United
+32148,George Boyd,Burnley
+144996,Sung-Yueng Ki,Swansea,Newcastle United
+127130,Jack Cork,Swansea,Newcastle United
+212702,Wayne Routledge,Swansea,Tottenham
+38831,Jonjo Shelvey,Swansea
+46008,Thomas Carroll,Swansea,Southampton,Burnley
+26344,Bafetimbi Gomis,Swansea
+177503,Gabriel Paulista,Arsenal,Villarreal,Valencia
+191132,Luke Garbutt,Everton
+196386,Francis Coquelin,Arsenal,Liverpool
+24211,Suk-Young Yun,Queens Park Rangers
+183715,Aly Cissokho,Aston Villa,Burnley
+109638,Eduardo Vargas,Queens Park Rangers,Swansea
+182223,Carlos Sanchez,Aston Villa,Burnley
+38994,Rafael,Manchester United
+41167,Gary Cahill,Chelsea,Atletico Madrid
+161035,Marcos Rojo,Manchester United
+46509,Daley Blind,Manchester United
+449241,Angel Di Maria,Manchester United,Sunderland,Real Sociedad
+33138,Stephen Ward,Burnley
+33639,James McCarthy,Everton
+27568,David Jones,Burnley
+26108,Younes Kaboul,Tottenham,Sunderland,Watford
+24228,Fabricio Coloccini,Newcastle United
+41365,Christian Eriksen,Tottenham,Watford
+30960,Emmanuel Adebayor,Tottenham,Crystal Palace
+89185,Federico Fernandez,Swansea
+210804,Paul Konchesky,Leicester
+52563,Gylfi Sigurdsson,Swansea
+157729,Wayne Routledge,Swansea,Everton
+143365,Wilfried Bony,Swansea,Manchester City,Stoke
+165704,Neil Taylor,Swansea
+425255,Kieran Gibbs,Arsenal,Fulham,Middlesbrough
+28108,Thomas Carroll,Swansea
+36786,Phil Bardsley,Stoke,Burnley
+47418,Marc Wilson,Stoke,West Bromwich Albion
+106228,Steven Nzonzi,Stoke,West Ham,Chelsea
+23283,Steve Sidwell,Stoke
+32579,John O'Shea,Sunderland
+24216,Sylvain Distin,Everton,Bournemouth
+113908,Liam Bridcutt,Sunderland
+32448,Gareth Barry,Everton
+32627,Steven Fletcher,Sunderland
+24147,Ben Foster,West Bromwich Albion,Watford
+265918,Andre Wisdom,West Bromwich Albion,Norwich
+240236,Fabricio Coloccini,Newcastle United
+38795,Joleon Lescott,West Bromwich Albion
+32734,Victor Anichebe,West Bromwich Albion,Norwich
+264840,Sammy Ameobi,Newcastle United
+26111,Bacary Sagna,Manchester City
+94267,Graziano Pelle,Southampton
+109897,Winston Reid,West Ham,Crystal Palace
+18506,Morgan Amalfitano,West Ham,Watford
+192899,Diafra Sakho,West Ham
+41232,Stewart Downing,West Ham
+113465,Karl Henry,Queens Park Rangers,Cardiff
+24023,Tony Hibbert,Everton
+22543,Robin van Persie,Manchester United,Chelsea
+36012,Steven Pienaar,Everton,Sunderland
+139673,Alan Hutton,Aston Villa
+30890,Philippe Senderos,Aston Villa
+29581,Charles N'Zogbia,Aston Villa
+178812,Oscar,Chelsea,Fulham,Wolfsburg,Borussia Dortmund
+24156,Aaron Lennon,Everton,Sunderland
+193223,Kyle Naughton,Swansea,Real Betis,Rayo Vallecano
+51553,Daniel Sturridge,Liverpool
+609733,Suk-Young Yun,Queens Park Rangers
+30367,Karl Henry,Queens Park Rangers
+47394,Adel Taarabt,Queens Park Rangers
+35523,Glenn Murray,Crystal Palace,Bournemouth,Brighton
+43248,Michael Carrick,Manchester United,West Bromwich Albion,Leicester
+532741,James Wilson,Manchester United
+604589,Sadio Mane,Southampton
+289159,Jak Alnwick,Newcastle United
+38373,Yoan Gouffran,Newcastle United
+46700,Papiss Cisse,Newcastle United
+33339,Gerhard Tremmel,Swansea
+23882,Sung-Yueng Ki,Swansea
+37506,Roberto Soldado,Tottenham,Villarreal
+30830,Peter Crouch,Stoke
+38880,Michael Kightly,Burnley
+23922,Steven Reid,Burnley
+33468,Stephane Sessegnon,West Bromwich Albion
+24011,Mikel Arteta,Arsenal
+178538,Filip Djuricic,Southampton,Mainz 05
+26675,Sadio Mane,Southampton,Werder Bremen
+363340,Dwight Gayle,Crystal Palace,Newcastle United
+23933,Cheikhou Kouyate,West Ham
+281207,Kurt Zouma,Chelsea,Stoke,Everton
+32345,Willian,Chelsea
+180162,Ashley Williams,Swansea
+23305,Nathan Dyer,Swansea
+202562,Danny Drinkwater,Leicester,Brighton
+299984,Dejan Lovren,Liverpool,Newcastle United,Sunderland
+26777,Brede Hangeland,Crystal Palace
+25537,Yannick Bolasie,Crystal Palace
+192921,Yaya Sanogo,Arsenal,Crystal Palace
+24372,Matthew Taylor,Burnley
+181242,Danny Ings,Burnley
+24105,Liam Rosenior,Hull
+538112,Matt Targett,Southampton
+41008,Andros Townsend,Tottenham
+358289,Fabian Delph,Aston Villa,Valencia,Deportivo La Coruna
+23991,Scott Sinclair,Aston Villa
+30633,Mark Schwarzer,Leicester
+23818,Robert Huth,Leicester
+173461,Riyad Mahrez,Leicester,Hoffenheim
+119079,Alex McCarthy,Queens Park Rangers,Crystal Palace,Southampton
+37475,Martin Skrtel,Liverpool
+40015,Tom Huddlestone,Hull,Newcastle United
+26163,Abel Hernandez,Hull
+161415,James McArthur,Crystal Palace
+172841,Darren Fletcher,West Bromwich Albion
+31013,Theo Walcott,Arsenal,Everton
+190142,Jed Steer,Aston Villa
+180283,Scott Arfield,Burnley
+316688,Brendan Galloway,Everton,West Bromwich Albion
+37233,Vito Mannone,Sunderland
+36283,Wayne Hennessey,Crystal Palace
+183519,Pape Ndiaye Souare,Crystal Palace
+39225,Raheem Sterling,Liverpool,West Bromwich Albion
+604982,Eden Hazard,Chelsea,Crystal Palace
+39987,Loic Remy,Chelsea,Queens Park Rangers,Getafe
+177837,Vlad Chiriches,Tottenham
+43247,Craig Gardner,West Bromwich Albion
+23538,Mark Noble,West Ham,Norwich
+278285,Paulo Gazzaniga,Southampton,Tottenham
+24224,Shay Given,Aston Villa,Stoke
+130670,Marouane Chamakh,Crystal Palace
+193859,John Stones,Everton,Sunderland
+23931,Winston Reid,West Ham
+47382,Enner Valencia,West Ham
+502420,Eljero Elia,Southampton
+259809,Marvin Emnes,Swansea
+30668,Aaron Cresswell,West Ham
+501040,Marcos Rojo,Manchester United
+212714,Tom Huddlestone,Hull,Huddersfield
+25550,Steve Sidwell,Stoke
+30630,Andreas Weimann,Aston Villa
+242887,Samuel Eto'o,Everton,Newcastle United,Malaga
+184822,Fabio Borini,Liverpool,Sunderland
+268375,Emiliano Martinez,Arsenal
+191616,Gael Clichy,Manchester City
+115160,Brown Ideye,West Bromwich Albion,Malaga
+93457,Younes Kaboul,Sunderland
+432040,Patrick van Aanholt,Sunderland,Newcastle United
+109330,Yann M'Vila,Sunderland
+166019,Lee Cattermole,Sunderland
+158879,Wahbi Khazri,Sunderland,Schalke 04
+51545,Jose Salomon Rondon,West Bromwich Albion,Newcastle United
+40602,John Ruddy,Norwich
+163604,Karl Darlow,Newcastle United
+178206,Ryan Bennett,Norwich,Wolfsburg
+277761,Chancel Mbemba,Newcastle United
+25667,Timm Klose,Norwich,Swansea
+72417,Martin Olsson,Norwich,Wolverhampton Wanderers
+108038,Andros Townsend,Newcastle United,Liverpool
+46354,Gary O'Neil,Norwich
+24393,Steven Naismith,Norwich
+38369,Dieumerci Mbokani,Norwich,Hull
+188971,Jakob Haugaard,Stoke
+26434,Ibrahim Afellay,Stoke
+186831,Bojan Krkic,Stoke,Rayo Vallecano
+172321,Joselu,Stoke,Deportivo La Coruna,Hannover 96
+30974,Artur Boruc,Bournemouth
+35515,Adam Smith,Bournemouth
+156013,Simon Francis,Bournemouth
+68237,Steve Cook,Bournemouth
+160447,Charlie Daniels,Bournemouth
+174321,Gael Clichy,Manchester City,Valencia
+23629,Matt Ritchie,Bournemouth
+46349,Eunan O'Kane,Bournemouth
+155913,Andrew Surman,Bournemouth,Newcastle United
+169200,Jesus Navas,Manchester City,Wolfsburg
+192780,Max-Alain Gradel,Bournemouth
+185236,Lewis Grabban,Bournemouth
+37779,Joshua King,Bournemouth,Norwich
+30455,Heurelho Gomes,Watford
+213809,Allan Nyom,Watford,West Bromwich Albion,Granada,Leganes
+41927,Sebastian Proedl,Watford,Werder Bremen
+40548,Craig Cathcart,Watford
+417068,Nathan Ake,Watford,Bournemouth,Chelsea
+37631,Almen Abdi,Watford,Atletico Madrid,Valencia
+25816,Ben Watson,Watford
+22991,Mario Suarez,Watford
+339992,Mesut Oezil,Arsenal
+604785,Alex Iwobi,Arsenal
+72436,Troy Deeney,Watford
+101419,Odion Ighalo,Watford
+175947,Stephane Sessegnon,West Bromwich Albion
+363333,Dele Alli,Tottenham
+37780,Darren Randolph,West Ham
+49543,Angelo Ogbonna,West Ham
+158545,Aaron Cresswell,West Ham
+413557,Juan Mata,Manchester United
+25496,Mark Noble,West Ham
+210276,Dimitri Payet,West Ham
+696365,Marcus Rashford,Manchester United
+643709,Sergio Aguero,Manchester City,Leicester
+24903,Ivo Pinto,Norwich
+114769,Craig Cathcart,Watford
+163815,Martin Olsson,Norwich
+24915,Ikechi Anya,Watford
+35493,Graham Dorrans,Norwich
+37411,Ben Watson,Watford,Espanyol
+201664,Wesley Hoolahan,Norwich,Southampton
+131409,Etienne Capoue,Watford
+279489,Chancel Mbemba,Newcastle United
+95955,Jack Cork,Swansea,West Ham
+109121,Alberto Paloschi,Swansea
+303824,Marouane Fellaini,Manchester United
+179410,Idrissa Gana Gueye,Aston Villa,Everton
+154280,Jordan Ayew,Aston Villa,Swansea,Crystal Palace
+149855,Virgil van Dijk,Southampton,Everton
+209405,Jose Fonte,Southampton,Liverpool
+213878,Bryan Oviedo,Everton,Villarreal
+209384,Victor Wanyama,Southampton
+251925,Kevin Mirallas,Everton,Watford,Sevilla,Barcelona
+324910,Branislav Ivanovic,Chelsea,Augsburg,Schalke 04
+150250,Willian,Chelsea,Barcelona
+26160,Yohan Cabaye,Crystal Palace
+46417,Jason Puncheon,Crystal Palace
+24625,Steve Cook,Bournemouth
+46810,Matt Ritchie,Bournemouth
+706985,Kieran Richardson,Aston Villa
+458324,Matt Miazga,Chelsea
+46554,Alexandre Pato,Chelsea,Villarreal
+351860,Aleksandar Mitrovic,Newcastle United,Fulham
+35712,Jose Holebas,Watford
+43061,Christian Fuchs,Leicester,Schalke 04
+319300,N'Golo Kante,Leicester,Chelsea
+155129,Dan Gosling,Bournemouth,Cardiff
+160496,Harry Arter,Bournemouth
+23979,Robert Elliot,Newcastle United
+30841,Maarten Stekelenburg,Southampton,Everton
+242094,Theo Walcott,Arsenal,Villarreal
+261313,Idrissa Gana Gueye,Aston Villa
+163919,Michail Antonio,West Ham
+107415,Jordan Ayew,Aston Villa,Middlesbrough
+465614,Marcos Rojo,Manchester United,Eintracht Frankfurt
+299215,Memphis Depay,Manchester United
+242709,Adam Lallana,Liverpool,Hoffenheim
+426202,Divock Origi,Liverpool,Wolfsburg
+264221,Danny Rose,Tottenham,FC Cologne,Hannover 96
+212867,Eric Dier,Tottenham,Bayer Leverkusen
+288880,Jack Butland,Stoke
+176300,Bojan Krkic,Stoke,Liverpool,Bayern Munich
+313668,Jefferson Montero,Swansea
+32616,Steven Whittaker,Norwich
+26209,Sebastien Bassong,Norwich
+40100,Robert Brady,Norwich
+24208,Alan Hutton,Aston Villa
+31953,Cameron Jerome,Norwich
+46820,Marcos Rojo,Manchester United
+30872,Anthony Martial,Manchester United,Bayern Munich
+38617,Adam Federici,Bournemouth
+160627,Cedric Soares,Southampton
+24381,Harry Arter,Bournemouth
+419196,Ramiro Funes Mori,Everton
+350472,Kevin Mbabu,Newcastle United
+473853,Jordan Amavi,Aston Villa
+20694,Jamie Vardy,Leicester,Mainz 05
+46120,Mario Suarez,Watford,Malaga,Leganes
+239856,Alberto Moreno,Liverpool,Burnley
+693138,Cameron Borthwick-Jackson,Manchester United
+103899,Papiss Cisse,Newcastle United
+212470,James Ward-Prowse,Southampton,VfB Stuttgart
+639058,Marcos Rojo,Manchester United,Crystal Palace,Fulham
+30966,Almen Abdi,Watford,Hamburger SV
+467354,Gary Cahill,Chelsea,Newcastle United
+303059,Oscar,Chelsea
+259810,Stephen Kingsley,Swansea
+39139,Yann M'Vila,Sunderland
+520230,Ola Toivonen,Sunderland
+157303,Adam Bogdan,Liverpool
+109491,Victor Wanyama,Southampton,West Bromwich Albion
+568571,Martin Skrtel,Liverpool
+199291,Jonathan Walters,Stoke
+575789,Dimitri Payet,West Ham
+42598,Adam Johnson,Sunderland
+25818,Danny Drinkwater,Leicester
+24579,Mark Bunn,Aston Villa
+570431,Steven Taylor,Newcastle United
+232253,Benik Afobe,Bournemouth
+38148,Rudy Gestede,Aston Villa,Cordoba,Rayo Vallecano
+516273,Leighton Baines,Everton
+742405,Kevin Mirallas,Everton
+605262,Tom Davies,Everton
+492586,Andy King,Leicester
+184321,Callum Wilson,Bournemouth
+680815,Aly Cissokho,Aston Villa
+165773,Miguel Britos,Watford
+682552,James McClean,West Bromwich Albion
+302241,Patrick Bamford,Norwich,Middlesbrough
+289817,Philippe Coutinho,Liverpool
+608125,Jordon Ibe,Liverpool
+94010,Georginio Wijnaldum,Newcastle United
+22045,Andrew Surman,Bournemouth
+109060,Sergio Romero,Manchester United
+254308,Florian Thauvin,Newcastle United
+150026,Eder,Swansea
+127712,Declan Rudd,Norwich
+38366,Wesley Hoolahan,Norwich
+150401,Jordan Ayew,Aston Villa
+185644,Mathew Ryan,Brighton,Valencia
+26222,Ezequiel Schelotto,Brighton
+201690,Shane Duffy,Brighton
+672469,Wes Morgan,Leicester
+182765,Lewis Dunk,Brighton
+174325,Gaetan Bong,Brighton
+255610,Ben Chilwell,Leicester,Hull
+107132,Davy Proepper,Brighton
+167008,Beram Kayal,Brighton,Ingolstadt
+207511,Jurgen Locadia,Brighton
+111237,Vicente Iborra,Leicester,Sevilla
+178765,Pascal Gross,Brighton
+533228,Marc Albrighton,Leicester
+289441,Jose Izquierdo,Brighton
+13033,Orestis Karnezis,Watford
+230916,Charlie Daniels,Bournemouth
+352887,Abdoulaye Doucoure,Watford,Granada
+295067,Etienne Capoue,Watford
+562724,Lewis Cook,Bournemouth
+175311,Kiko,Watford,Deportivo Alaves
+210278,Roberto Pereyra,Watford
+280484,Nick Pope,Burnley
+243138,James Tarkowski,Burnley
+297556,Ahmed Hegazy,West Bromwich Albion
+473855,Ashley Westwood,Burnley
+169719,Chris Wood,Burnley
+258269,Antonio Valencia,Manchester United
+264860,Mike van der Hoorn,Swansea
+511987,Federico Fernandez,Swansea,Fulham
+248453,Nemanja Matic,Manchester United
+179028,Sung-Yueng Ki,Swansea,Hull
+72241,Martin Dubravka,Newcastle United
+120598,Jonas Loessl,Huddersfield,Mainz 05
+480782,Tom Smith,Huddersfield
+299572,Mathias Joergensen,Huddersfield
+184521,Florian Lejeune,Newcastle United,Eibar
+71908,Christopher Schindler,Huddersfield
+212890,Terence Kongolo,Huddersfield
+189074,Jonathan Hogg,Huddersfield
+215804,Aaron Mooy,Huddersfield,Paderborn,Ingolstadt
+231592,Elias Kachunga,Huddersfield
+143945,Alex Pritchard,Huddersfield
+289819,Rajiv van La Parra,Huddersfield
+282671,Laurent Depoitre,Huddersfield
+149219,Jose Holebas,Watford
+163616,James McArthur,Crystal Palace
+27696,Stefano Okaka Chuka,Watford
+276738,Cesar Azpilicueta,Chelsea,VfB Stuttgart
+449232,Andreas Christensen,Chelsea,Borussia Moenchengladbach
+265363,Christopher Schindler,Huddersfield
+196169,Davide Zappacosta,Chelsea
+532743,Jonathan Hogg,Huddersfield
+244811,Willian,Chelsea
+213501,Alvaro Morata,Chelsea,Real Madrid
+287894,Loris Karius,Liverpool,Mainz 05
+26660,Ragnar Klavan,Liverpool,Augsburg
+292462,Mohamed Salah,Liverpool
+465628,Maya Yoshida,Southampton
+490868,Wesley Hoedt,Southampton
+128106,Ben Chilwell,Leicester,Bayer Leverkusen
+40930,Wilfred Ndidi,Leicester
+266523,Dusan Tadic,Southampton,Augsburg,Bayern Munich,Schalke 04
+303919,Jordan Pickford,Everton,Sunderland
+158581,Luciano Narsingh,Swansea
+178776,Yannick Bolasie,Everton
+492132,Terence Kongolo,Huddersfield,Ingolstadt
+212905,Rajiv van La Parra,Huddersfield
+478527,Steve Mounie,Huddersfield
+62336,Jose Izquierdo,Brighton
+760712,Andrew Robertson,Liverpool
+172323,Stephen Ward,Burnley
+129915,Jack Cork,Burnley
+728123,Shinji Okazaki,Leicester
+643654,Marc Albrighton,Leicester
+749661,Tammy Abraham,Swansea
+212511,Bruno Martins Indi,Stoke
+643533,Jan Vertonghen,Tottenham
+195299,Danny Rose,Tottenham
+274779,Moritz Bauer,Stoke
+310764,Ramadan Sobhi,Stoke
+612489,Xherdan Shaqiri,Stoke
+416850,Dale Stephens,Brighton
+184999,Shkodran Mustafi,Arsenal,Valencia
+304345,Sead Kolasinac,Arsenal,Schalke 04
+73167,Jack Wilshere,Arsenal,Manchester United,Borussia Dortmund
+207236,Alex Iwobi,Arsenal,Borussia Moenchengladbach
+150565,Pierre-Emerick Aubameyang,Arsenal,Borussia Dortmund
+760320,Patrick van Aanholt,Crystal Palace
+843099,Paul Pogba,Manchester United
+440330,Christian Benteke,Crystal Palace
+436036,Harry Maguire,Leicester
+521148,Christian Atsu,Newcastle United
+574645,Mikel Merino,Newcastle United,Real Sociedad,Borussia Dortmund
+363364,Ederson Moraes,Manchester City
+411617,Nicolas Otamendi,Manchester City,Athletic Bilbao
+623621,Oleksandr Zinchenko,Manchester City
+178818,Kevin De Bruyne,Manchester City,Borussia Dortmund
+530859,Sergio Aguero,Manchester City,Schalke 04
+488139,Leroy Sane,Manchester City
+605252,Cuco Martina,Everton
+654908,Abdoulaye Doucoure,Watford,Everton
+306913,Gylfi Sigurdsson,Everton,Hull
+496563,James McArthur,Crystal Palace
+208077,Vincent Kompany,Manchester City,Real Madrid
+574200,Antonio Valencia,Manchester United,Villarreal,Espanyol
+418137,Arthur Masuaku,West Ham
+451335,Edimilson Fernandes,West Ham
+70409,Javier Hernandez,West Ham,Real Madrid,Bayer Leverkusen
+734042,Ben Davies,Tottenham
+489627,Matt Ritchie,Newcastle United
+740171,Thomas Ince,Huddersfield
+74403,Shane Duffy,Brighton
+45254,Bruno Saltor,Brighton,Ingolstadt
+432421,Isaiah Brown,Brighton
+45204,Pascal Gross,Brighton,Almeria
+576165,Gabriel Jesus,Manchester City
+52133,Gary Cahill,Chelsea
+201734,Johann Berg Gudmundsson,Burnley
+39631,Jeff Hendrick,Burnley
+643229,Jeremie Boga,Chelsea,Granada
+248689,Michy Batshuayi,Chelsea,Valencia,Borussia Dortmund
+626667,Hector Bellerin,Arsenal
+169193,Alexandre Lacazette,Arsenal
+154232,Grzegorz Krychowiak,West Bromwich Albion,Sevilla
+591734,Dominic Solanke,Liverpool
+180259,Andre Gray,Watford,Burnley
+419664,Tyrone Mings,Bournemouth
+564843,Charlie Daniels,Bournemouth
+518371,Lys Mousset,Bournemouth
+557677,Nikola Vlasic,Everton
+421786,Ryan Bertrand,Southampton
+654096,Aaron Cresswell,West Ham
+300916,Joao Mario,West Ham
+42247,Eldin Jakupovic,Leicester,Hull
+719219,Rob Holding,Arsenal
+604089,Konstantinos Mavropanos,Arsenal
+478393,N'Golo Kante,Chelsea
+267371,Emerson,Chelsea
+37421,Claudio Bravo,Manchester City,Barcelona
+282182,Konstantinos Stafylidis,Stoke,Augsburg
+95082,Xherdan Shaqiri,Stoke,Schalke 04
+281085,Jese Rodriguez,Stoke,Real Madrid,Las Palmas
+94326,Christian Fuchs,Leicester
+484878,Jordan Ayew,Swansea
+215658,Abdoulaye Doucoure,Watford,Chelsea
+214938,Neil Etheridge,Cardiff
+363357,Marcus Bettinelli,Fulham
+156007,Bruno Ecuele Manga,Cardiff
+149150,Denis Odoi,Fulham
+117545,Sean Morrison,Cardiff
+41083,Souleymane Bamba,Cardiff
+198444,Calum Chambers,Fulham
+34654,Joseph Bennett,Cardiff
+173952,Maxime Le Marchand,Fulham
+28109,Jean Michael Seri,Fulham
+492045,Aron Gunnarsson,Cardiff
+70078,Kevin McDonald,Fulham
+355739,Harry Arter,Cardiff
+470539,Stefan Johansen,Fulham
+110169,Josh Murphy,Cardiff
+773991,Andre Schuerrle,Fulham
+513086,Callum Paterson,Cardiff,Levante,Real Betis,Deportivo Alaves
+262550,Bobby Reid,Cardiff
+215387,Jack Stephens,Southampton
+466672,David Brooks,Bournemouth,Levante
+261936,Nathan Redmond,Southampton
+674014,Lewis Cook,Bournemouth
+289137,James Tarkowski,Burnley
+280965,Benjamin Mendy,Manchester City
+319784,Alisson Becker,Liverpool
+331528,Alex Pritchard,Huddersfield,Borussia Dortmund
+210111,Kurt Zouma,Everton,Barcelona
+361770,Andre Gomes,Everton,Valencia,Barcelona
+265116,Bernard,Everton
+215168,Bernd Leno,Arsenal,Bayer Leverkusen
+359188,James Milner,Liverpool
+592909,Henrikh Mkhitaryan,Arsenal
+306128,Harry Maguire,Leicester
+493165,Wilfred Ndidi,Leicester
+210128,James Maddison,Leicester
+317564,Kepa Arrizabalaga,Chelsea,Athletic Bilbao
+282775,N'Golo Kante,Chelsea
+425963,Cheikhou Kouyate,Crystal Palace,Schalke 04
+40604,Rui Patricio,Wolverhampton Wanderers
+246331,Conor Coady,Wolverhampton Wanderers
+247761,Willy Boly,Wolverhampton Wanderers
+833219,Juan Foyth,Tottenham
+239920,Matt Doherty,Wolverhampton Wanderers
+534684,Joao Moutinho,Wolverhampton Wanderers
+528453,Harry Winks,Tottenham
+360918,Ruben Neves,Wolverhampton Wanderers,Celta Vigo
+37549,Jonny,Wolverhampton Wanderers
+361792,Helder Costa,Wolverhampton Wanderers,Deportivo La Coruna
+292313,Raul Jimenez,Wolverhampton Wanderers,Atletico Madrid
+215299,Lucas Moura,Tottenham
+361790,Ivan Cavaleiro,Wolverhampton Wanderers
+298676,Joe Bryan,Fulham
+612863,Ryan Sessegnon,Fulham
+612150,Dominic Calvert-Lewin,Everton
+294003,Luciano Dario Vietto,Fulham,Villarreal,Atletico Madrid,Valencia,Sevilla
+239219,Mateo Kovacic,Chelsea,Real Madrid
+193531,Souleymane Bamba,Cardiff
+291622,Victor Camarasa,Cardiff
+196308,Matej Vydra,Burnley
+194986,Kenneth Zohore,Cardiff
+640486,Craig Cathcart,Watford,Espanyol
+213688,Gaetan Bong,Brighton,Barcelona,Real Betis,Valencia
+724306,Anthony Knockaert,Brighton
+488718,Diego Rico,Bournemouth,Leganes
+307438,Pablo Zabaleta,West Ham
+696443,Issa Diop,West Ham
+230190,Andriy Yarmolenko,West Ham
+132035,Michail Antonio,West Ham
+40567,Lee Peltier,Cardiff
+181234,Danny Ward,Cardiff
+205893,Jack Stephens,Southampton,Werder Bremen,Borussia Moenchengladbach
+237563,Mario Lemina,Southampton
+206435,Callum Paterson,Cardiff
+47566,Fabri,Fulham,Deportivo La Coruna
+212418,Maxime Le Marchand,Fulham
+182962,Kevin McDonald,Fulham
+570461,Diogo Jota,Wolverhampton Wanderers
+800609,Pierre-Emerick Aubameyang,Arsenal
+466890,Beram Kayal,Brighton
+493647,Adama Traore,Wolverhampton Wanderers,Middlesbrough
+322049,Paul Pogba,Manchester United
+602261,Caglar Soyuncu,Leicester,Freiburg
+32728,Grady Diangana,West Ham,Hull
+210120,Marc Albrighton,Leicester
+654091,Felipe Anderson,West Ham
+459499,Yoshinori Muto,Newcastle United,Mainz 05
+172899,Danny Ings,Southampton
+39455,Shkodran Mustafi,Arsenal,Borussia Dortmund
+189982,Federico Fernandez,Newcastle United,Deportivo La Coruna,Hoffenheim
+147726,Leon Balogun,Brighton,Mainz 05
+508889,Naby Keita,Liverpool,RasenBallsport Leipzig
+194323,Issa Diop,West Ham
+496042,Yerry Mina,Everton,Barcelona
+300532,Sergio Rico,Fulham,Sevilla
+603329,Seamus Coleman,Everton
+575779,Andreas Pereira,Manchester United,Granada
+446392,Terence Kongolo,Huddersfield
+769644,Chris Loewe,Huddersfield
+862467,Ivan Cavaleiro,Wolverhampton Wanderers
+637716,Bernardo,Brighton,RasenBallsport Leipzig
+188055,Harry Arter,Cardiff
+25526,Andrea Ranocchia,Hull
+111801,Alfred N'Diaye,Hull,Real Betis
+69541,Evandro Goebel,Hull
+19264,Sam Clucas,Hull
+32657,Victor Valdes,Middlesbrough
+181379,Bernardo,Middlesbrough
+150764,Daniel Ayala,Middlesbrough,Sporting Gijon,Girona
+201738,Ben Gibson,Middlesbrough
+24413,Antonio Barragan,Middlesbrough
+161659,Grant Leadbitter,Middlesbrough
+35324,Adam Clayton,Middlesbrough,Valencia,Real Betis
+191175,Stewart Downing,Middlesbrough
+58294,Cristhian Stuani,Middlesbrough,Espanyol,Girona
+25669,Lee Grant,Stoke
+171698,Ragnar Klavan,Liverpool,Schalke 04
+765715,Trent Alexander-Arnold,Liverpool
+33030,Fernando Llorente,Swansea,Sevilla
+37292,Edimilson Fernandes,West Ham,Borussia Moenchengladbach,Hoffenheim
+469295,Jonathan Calleri,West Ham,Las Palmas,Deportivo Alaves
+365672,Nathan Redmond,Southampton,Celta Vigo
+684734,Lamine Kone,Sunderland
+543358,Steven Pienaar,Sunderland
+46241,Etienne Capoue,Watford
+45588,Antonio Barragan,Middlesbrough
+198559,Marten de Roon,Middlesbrough
+75310,Alvaro Negredo,Middlesbrough,Valencia
+566732,John O'Shea,Sunderland
+363318,James Collins,West Ham
+93480,Cheikhou Kouyate,West Ham,Valencia
+35724,Henrikh Mkhitaryan,Manchester United
+150176,Antonio Barragan,Middlesbrough
+32446,David Marshall,Hull
+213486,Nolito,Manchester City,Celta Vigo,Sevilla
+522108,Sam McQueen,Southampton
+41087,Ron-Robert Zieler,Leicester,Hannover 96,VfB Stuttgart
+232103,Andy King,Leicester
+291219,Islam Slimani,Leicester
+157101,Jake Livermore,Hull
+290409,William Keane,Hull
+200917,Fernando Llorente,Swansea,Eibar,Deportivo Alaves
+122052,Ryan Mason,Hull
+240539,Andrew Robertson,Hull
+425183,Odion Ighalo,Watford
+37442,Angelo Ogbonna,West Ham,Real Madrid
+166595,Simone Zaza,West Ham,Valencia
+690149,Axel Tuanzebe,Manchester United
+620124,Lynden Gooch,Sunderland
+31293,Steve Mandanda,Crystal Palace
+193866,Papy Djilobodji,Sunderland,Werder Bremen
+194660,Granit Xhaka,Arsenal,Deportivo La Coruna
+534484,Troy Deeney,Watford,Granada,Malaga
+172284,Ryan Allsopp,Bournemouth
+722741,Josh Tymon,Hull
+523825,Baye Oumar Niasse,Hull
+617219,George Honeyman,Sunderland
+748456,James McClean,West Bromwich Albion
+231202,James Husband,Middlesbrough
+113005,Nacer Chadli,West Bromwich Albion
+467022,Christian Eriksen,Tottenham
+96616,Martin Caceres,Southampton
+40537,Ryan Bertrand,Southampton
+690516,Ademola Lookman,Everton,RasenBallsport Leipzig
+104258,Cristhian Stuani,Middlesbrough
+266526,Jordan Rhodes,Middlesbrough
+164385,Mark Noble,West Ham
+716410,Enner Valencia,West Ham
+103904,Emilio Nsue,Middlesbrough
+660321,Josh Sims,Southampton
+515338,Brad Smith,Bournemouth
+449484,Xabi Irureta,Eibar
+246201,Sergio Alvarez,Celta Vigo
+170341,Eneko Boveda,Eibar,Athletic Bilbao
+183462,Hugo Mallo,Celta Vigo
+150735,Manuel Lillo Castellano,Eibar,Sporting Gijon
+172948,Gustavo Cabral,Celta Vigo
+163971,Raul Navas,Eibar,Espanyol
+173965,Didac Vila,Eibar,Real Sociedad
+18673,Jonny,Celta Vigo
+449492,Borja Fernandez,Eibar,Athletic Bilbao
+428947,Michael Krohn-Dehli,Celta Vigo,Valencia
+75616,Dani Garcia,Eibar
+38431,Ander Capa,Eibar,Real Valladolid
+49836,Santi Mina,Celta Vigo,Eibar,Valencia
+433311,Mikel Arruabarrena,Eibar,Athletic Bilbao
+39215,Fabian Orellana,Celta Vigo,Sevilla,Deportivo La Coruna
+183498,Javi Lara,Eibar
+72623,Nolito,Celta Vigo,Atletico Madrid
+213712,Saul Berjon,Eibar
+96509,Joaquin Larrivey,Celta Vigo
+96623,Sergio Asenjo,Villarreal
+246422,Juan Carlos,Cordoba,Rayo Vallecano
+183185,Mario Gaspar,Villarreal
+182921,Eric Bailly,Villarreal
+128360,Deivid,Cordoba
+160844,Victor Ruiz,Villarreal
+309537,Jose Angel Crespo,Cordoba
+178574,Edimar Fraga,Cordoba
+193978,Joel Campbell,Villarreal,Deportivo Alaves
+474680,Rene Krhin,Cordoba,Deportivo La Coruna,Valencia
+202610,Abel Gomez,Cordoba
+268282,Tomas Pina,Villarreal
+170667,Bebé,Cordoba,Granada
+359197,Denis Cheryshev,Villarreal,Valencia
+29904,Federico Nicolas Cartabia,Cordoba
+38044,Ikechukwu Uche,Villarreal
+210065,Fidel,Cordoba,Rayo Vallecano,Eibar
+246438,Gerard Moreno,Villarreal,Espanyol
+599425,Florin Andone,Cordoba,Deportivo La Coruna
+74736,Roberto Fernandez,Granada
+33848,Diogo Figueiras,Sevilla,Deportivo La Coruna
+2752,Diego Mainz,Granada
+242783,Thimothee Kolodziejczak,Sevilla
+112205,Emanuel Insua,Granada,Getafe
+150869,Fernando Navarro,Sevilla
+317775,Cala,Granada
+38385,Nicolas Pareja,Sevilla
+282713,Manuel Iturra,Granada,Eibar
+40957,Ruben Perez,Granada
+38821,Stephane M'Bia,Sevilla,Espanyol
+2805,Robert Ibanez,Granada,Leganes
+282281,Jose Antonio Reyes,Sevilla,Villarreal,Barcelona
+49866,Daniel Candeias,Granada,Rayo Vallecano,Malaga,Villarreal
+213805,Denis Suarez,Sevilla,Atletico Madrid
+489245,Fran Rico,Granada,Leganes
+26336,Vitolo,Sevilla
+166648,Carlos Bacca,Sevilla,Villarreal
+68813,Przemyslaw Tyton,Elche,Deportivo La Coruna,VfB Stuttgart
+245555,Geronimo Rulli,Real Sociedad
+195335,Damian Suarez,Elche,Getafe
+33960,Joseba Zaldua,Real Sociedad
+193930,Enzo Roco,Elche,Espanyol
+38540,Gorka Elustondo,Real Sociedad,Athletic Bilbao,Rayo Vallecano
+108572,David Lomban,Elche,Granada,Eibar
+485141,Mikel Gonzalez,Real Sociedad,Leganes
+74435,Domingo Cisma,Elche
+47565,Alberto De la Bella,Real Sociedad
+40668,Pedro Mosquera,Elche,Deportivo La Coruna
+102622,Markel Bergara,Real Sociedad,Getafe
+40719,Mario Pasalic,Elche
+41156,Esteban Granero,Real Sociedad,Espanyol
+369800,Victor Romero Rodriguez,Elche,Getafe,Sporting Gijon
+33973,Xabier Prieto,Real Sociedad
+279173,Faycal Fajr,Elche,Deportivo La Coruna,Getafe
+150649,David Zurutuza,Real Sociedad,Real Betis
+446266,Aaron Niguez,Elche
+99047,Sergio Canales,Real Sociedad
+128732,Jonathas,Elche,Real Sociedad,Hannover 96
+56686,Gonzalo Castro,Real Sociedad,Malaga
+37579,Tono,Rayo Vallecano
+37656,Ruben Martinez,Almeria,Levante,Deportivo La Coruna
+183449,Tito,Rayo Vallecano,Leganes,Granada
+260659,Ximo Navarro,Almeria,Las Palmas,Deportivo Alaves
+406257,Antonio Amaya,Rayo Vallecano,Real Valladolid
+280485,Mauro Dos Santos,Almeria,Levante
+150731,Ze Castro,Rayo Vallecano
+113311,Angel Trujillo,Almeria,Eibar
+34104,Nacho Martinez,Rayo Vallecano
+150296,Sebastian Dubarbier,Almeria
+479002,Roberto Trashorras,Rayo Vallecano
+202220,Thomas,Almeria
+75004,Mohammed Fatau,Rayo Vallecano
+38581,Corona,Almeria
+163205,Gael Kakuta,Rayo Vallecano,Deportivo La Coruna
+434325,Wellington Silva,Almeria,Atletico Madrid
+41168,Alberto Bueno,Rayo Vallecano,Granada
+251256,Ramon Azeez,Almeria,Villarreal
+482331,Adrian Embarba,Rayo Vallecano
+362855,Javier Espinosa Gonzalez,Almeria
+111975,Manucho,Rayo Vallecano
+254702,Thievy Bifouma,Almeria
+99333,Jose Manuel Casado,Almeria
+38469,Verza,Almeria,Levante
+280483,Jonathan Zongo,Almeria
+96613,Diego Alves,Valencia
+150824,Borja Fernandez,Eibar
+391058,Jose Gaya,Valencia
+75307,Andre Gomes,Valencia
+74747,Javi Fuego,Valencia,Villarreal,Espanyol
+34381,Ander Capa,Eibar
+37474,Saul Berjon,Eibar
+241825,Francisco Alcacer,Valencia,Barcelona,Borussia Dortmund
+324578,Rodrigo De Paul,Valencia
+42524,Federico Piovaccari,Eibar
+40672,Francisco Casilla,Espanyol,Real Madrid
+70812,Anaitz Arbilla,Espanyol,Real Sociedad
+257855,Alvaro Gonzalez,Espanyol,Villarreal
+47547,Ze Castro,Rayo Vallecano,VfB Stuttgart
+213814,Hector Moreno,Espanyol,Eibar
+358138,Ruben Duarte,Espanyol,Deportivo Alaves
+183321,Emiliano Insua,Rayo Vallecano
+107930,Jose Canas,Espanyol
+186121,Raul Baena,Rayo Vallecano
+161651,Lucas Vazquez,Espanyol
+359193,Victor Sanchez,Espanyol,Real Madrid
+37654,Paco Montanes,Espanyol
+477588,Alberto Bueno,Rayo Vallecano
+38578,Felipe Caicedo,Espanyol
+41622,Sergio Garcia,Espanyol
+150770,Miku,Rayo Vallecano
+109222,Vicente Guaita,Getafe
+37479,Carlos Vigaray,Getafe,Deportivo Alaves
+265275,Naldo,Getafe,Espanyol
+46407,Jean-Sylvain Babin,Granada,Sporting Gijon
+209950,Alexis,Getafe,Sevilla
+518240,Sergio Escudero,Getafe,Deportivo Alaves
+215927,Juankar,Granada,Malaga
+32999,Mehdi Lacen,Getafe,Malaga
+80492,Javi Moreno Marquez,Granada
+240054,Juan Rodriguez,Getafe,Sevilla
+43372,Ruben Perez,Granada,Rayo Vallecano
+75192,Pedro Leon,Getafe,Eibar
+37449,Pablo Sarabia,Getafe
+256727,Piti,Granada,Rayo Vallecano
+323438,Fredy Hinestroza,Getafe
+213711,Ruben Rochina,Granada,Levante
+24383,Diego Castro,Getafe
+161291,Youssef El Arabi,Granada
+25563,Carlos Kameni,Malaga
+41707,Roberto Rosales,Malaga
+104382,Sergio Sanchez,Malaga
+38842,Weligton,Malaga
+28439,Arthur Boka,Malaga
+112758,Sergi Darder,Malaga,Wolfsburg
+474672,Ignacio Camacho,Malaga,Villarreal,Leganes
+302912,Pedro Mosquera,Elche
+191873,Samuel Garcia,Malaga,Real Sociedad
+562062,Juanmi,Malaga,Villarreal
+282472,Samuel Castillejo,Malaga,Espanyol
+190452,Anaitz Arbilla,Espanyol,Osasuna
+70891,Alvaro Gonzalez,Espanyol
+52004,Victor Sanchez,Espanyol
+185123,Sergio Garcia,Espanyol
+151063,Thimothee Kolodziejczak,Sevilla,Levante,Schalke 04
+191906,Fernando Navarro,Sevilla,Deportivo La Coruna
+189192,Vicente Iborra,Sevilla,Barcelona
+174472,Iago Aspas,Sevilla,Celta Vigo
+177126,Jan Oblak,Atletico Madrid
+56678,Juanfran,Atletico Madrid
+33843,Miranda,Atletico Madrid
+38424,Diego Godin,Atletico Madrid
+19327,Jesus Gamez,Atletico Madrid
+58499,Manuel Trigueros,Villarreal
+30871,Arda Turan,Atletico Madrid
+184533,Gabi,Atletico Madrid
+39792,Tiago,Atletico Madrid,Barcelona
+79737,Antonio Rukavina,Villarreal
+33635,Koke,Atletico Madrid
+184138,Mario Mandzukic,Atletico Madrid
+75447,Antoine Griezmann,Atletico Madrid
+103905,Juanfran,Deportivo La Coruna,Leganes
+121872,Alberto Lopo,Deportivo La Coruna,Real Betis
+115519,Sidnei,Deportivo La Coruna,SD Huesca
+37451,Luisinho,Deportivo La Coruna
+151079,Lucas Perez,Deportivo La Coruna
+189178,Celso Borges,Deportivo La Coruna
+51953,Juan Dominguez Lamas,Deportivo La Coruna
+37653,Oriol Riera,Deportivo La Coruna,Osasuna
+40148,Enzo Perez,Valencia
+46384,Alvaro Negredo,Valencia,Espanyol
+193869,Pablo Piatti,Valencia
+410656,Juanfran,Deportivo La Coruna,SD Huesca,Leganes
+238841,Samuel Garcia,Malaga,Leganes
+291425,Isaac Success,Granada,Mainz 05
+41092,Diogo Figueiras,Sevilla
+40940,Thimothee Kolodziejczak,Sevilla
+191784,Antonio Amaya,Rayo Vallecano
+359194,Emiliano Insua,Rayo Vallecano
+172324,Alejandro Pozuelo,Rayo Vallecano
+108568,Denis Suarez,Sevilla
+282470,Gael Kakuta,Rayo Vallecano
+26392,Kevin Gameiro,Sevilla,Atletico Madrid,Valencia
+30657,Iker Casillas,Real Madrid
+230982,Daniel Carvajal,Real Madrid
+30962,Raphael Varane,Real Madrid
+28467,Sergio Ramos,Real Madrid
+282674,Marcelo,Real Madrid
+95078,Asier Illarramendi,Real Madrid
+191315,Toni Kroos,Real Madrid
+205278,Isco,Real Madrid,Real Sociedad
+30893,James Rodriguez,Real Madrid
+164684,Javier Hernandez,Real Madrid,Bayern Munich
+242151,Manuel Lillo Castellano,Eibar
+213695,Abraham Minero,Eibar
+33764,Gorka Iraizoz Moreno,Athletic Bilbao
+33025,Xabier Etxeita,Athletic Bilbao
+45244,Marcos Angeleri,Malaga,Getafe
+159881,Aymeric Laporte,Athletic Bilbao,SD Huesca
+18520,Weligton,Malaga
+154938,Mikel Balenziaga,Athletic Bilbao
+41470,Antunes,Malaga
+182224,Mikel San Jose,Athletic Bilbao
+181297,Mikel Rico,Athletic Bilbao
+432591,Sergi Darder,Malaga
+213470,Markel Susaeta,Athletic Bilbao,Deportivo Alaves
+198566,Samuel Castillejo,Malaga,Deportivo La Coruna
+96619,Oscar de Marcos,Athletic Bilbao
+43375,Ibai Gomez,Athletic Bilbao
+33028,Aritz Aduriz,Athletic Bilbao
+46808,Javi Guerra,Malaga,Rayo Vallecano
+280638,Adrian Gunino,Cordoba,Eibar,Deportivo Alaves
+143795,Federico Nicolas Cartabia,Cordoba
+42346,James Rodriguez,Real Madrid
+301809,Florin Andone,Cordoba,Levante
+26166,Karim Benzema,Real Madrid
+31921,Cristiano Ronaldo,Real Madrid
+38427,Jordi Codina,Getafe
+46391,Naldo,Getafe
+358148,Gustavo Cabral,Celta Vigo,Sevilla
+213694,Sergi Gomez,Celta Vigo,Girona
+201916,Roberto Lago,Getafe
+77773,Juan Rodriguez,Getafe
+425985,Augusto Fernandez,Celta Vigo
+213653,Fabian Orellana,Celta Vigo,Malaga,Eibar
+213489,Alvaro Vazquez,Getafe,Espanyol
+97498,Beto,Sevilla
+361757,Joao Cancelo,Valencia
+282680,Julian,Almeria
+150316,Michel,Almeria,Las Palmas
+199839,Francisco Velez,Almeria
+102879,Lucas Vazquez,Espanyol
+165706,Abraham Gonzalez,Espanyol
+477493,Corona,Almeria,Granada,Deportivo Alaves
+425595,Edimar Fraga,Cordoba
+427893,Roberto Trashorras,Rayo Vallecano,Celta Vigo
+96838,Lica,Rayo Vallecano
+101590,Oier Olazabal,Granada,Real Sociedad,Levante
+102620,Carlos Martinez,Real Sociedad
+282676,Ion Ansotegui,Real Sociedad,Athletic Bilbao
+33959,Inigo Martinez,Real Sociedad,Eibar
+261609,Dimitri Foulquier,Granada,Getafe
+282678,Xabier Prieto,Real Sociedad,Real Betis
+148827,Abdoulwahid Sissoko,Granada
+75342,Carlos Vela,Real Sociedad
+213504,Diego Marino,Levante,Sporting Gijon
+287691,Ivan Lopez,Levante
+30276,Loukas Vyntra,Levante
+42312,David Navarro,Levante
+70949,Nikos Karabelas,Levante
+477472,Mohamed Sissoko,Levante
+25462,Simao,Levante
+359190,Alejandro Bergantinos,Deportivo La Coruna,Malaga
+42873,Jose Luis Morales,Levante
+24132,Victor Casadesus,Levante
+213702,Ivan Cavaleiro,Deportivo La Coruna,Granada
+105351,Andreas Ivanschitz,Levante
+41294,David Barral,Levante,Granada
+41268,Toche,Deportivo La Coruna
+33845,Miguel Angel Moya,Atletico Madrid,Real Sociedad
+37482,Dani Alves,Barcelona
+38818,Gerard Pique,Barcelona
+150739,Javier Mascherano,Barcelona
+33988,Jordi Alba,Barcelona
+474589,Jesus Gamez,Atletico Madrid
+25773,Ivan Rakitic,Barcelona
+154257,Sergio Busquets,Barcelona
+30955,Andres Iniesta,Barcelona
+40636,Luis Suarez,Barcelona
+30981,Lionel Messi,Barcelona
+19533,Neymar,Barcelona
+150323,Ander Iturraspe,Athletic Bilbao
+40501,Adrian Gonzalez,Elche,Eibar,Malaga
+179772,Iker Muniain,Athletic Bilbao
+394825,Naldo,Getafe
+80295,Ion Ansotegui,Real Sociedad,Athletic Bilbao
+46289,Imanol Agirretxe,Real Sociedad
+38559,Mikel Saizar,Cordoba
+213714,Jose Angel Crespo,Cordoba
+244136,Fede Vico,Cordoba
+179404,Patrick Ekeng Ekeng,Cordoba
+175305,Borja Garcia,Cordoba,Girona
+193937,Rene Krhin,Cordoba
+51949,Keylor Navas,Real Madrid
+25921,Daniel Carvajal,Real Madrid
+184091,David Navarro,Levante
+33856,Tono,Levante,Eibar
+346004,Isco,Real Madrid
+31097,Luka Modric,Real Madrid
+150632,Simao,Levante
+43329,Jose Luis Morales,Levante
+2768,Antonio Rukavina,Villarreal,Rayo Vallecano
+262592,Sergio Marcos,Villarreal,Getafe,SD Huesca,Sporting Gijon
+213483,Moi Gomez,Villarreal
+41157,Gerard Moreno,Villarreal
+33773,Jose Angel,Elche
+213816,Mario Pasalic,Elche
+358127,Leo Baptistao,Rayo Vallecano,Villarreal,Espanyol
+42479,Denis Cheryshev,Villarreal
+40139,Miranda,Atletico Madrid,Valencia
+33634,Sergio Escudero,Getafe
+67334,Abdoul Karim Yoda,Getafe
+33871,Arda Turan,Atletico Madrid,Athletic Bilbao
+38573,Angel Lafita,Getafe
+38536,Enaut Zubikarai,Real Sociedad
+213812,Inigo Lopez,Cordoba
+522576,Aleksandar Pantic,Cordoba
+129918,Alfred Finnbogason,Real Sociedad,Augsburg
+213500,Jose Canas,Espanyol
+33588,Haris Medunjanin,Deportivo La Coruna
+92375,Lucas Perez,Deportivo La Coruna
+183365,Luis Farina,Deportivo La Coruna
+301456,Juankar,Granada,Valencia
+246177,Michael Krohn-Dehli,Celta Vigo
+189101,Manuel Trigueros,Villarreal
+282460,Mikel Rico,Athletic Bilbao
+571615,Guillermo,Athletic Bilbao,Leganes
+102623,Borja Viguera,Athletic Bilbao,Sporting Gijon
+37484,Juanfran Garcia,Levante
+384413,Mohamed Sissoko,Levante
+46836,Andreas Ivanschitz,Levante,Espanyol,Eibar
+32678,German Dario Lux,Deportivo La Coruna
+111190,Alberto Lopo,Deportivo La Coruna
+33024,Aymeric Laporte,Athletic Bilbao
+45749,Ander Iturraspe,Athletic Bilbao
+37994,Manu Herrera,Elche
+74757,Edu Albacar,Elche
+11555,Fernando Soriano,Almeria
+571685,Adrian Marin,Villarreal,Leganes
+205034,Nemanja Radoja,Celta Vigo
+33992,Gerard Pique,Barcelona
+26403,Adriano,Barcelona
+242469,Andres Iniesta,Barcelona
+113672,Mateo Pablo Musacchio,Villarreal
+309334,Saul Niguez,Atletico Madrid
+74752,Juanfran,Deportivo La Coruna,Sporting Gijon
+37450,Duda,Malaga
+30646,Roque Santa Cruz,Malaga
+293074,Jean-Sylvain Babin,Granada
+477471,Raul Navas,Eibar,Malaga,Deportivo La Coruna
+449494,Dani Garcia,Eibar
+166111,Diego Castro,Getafe,Real Valladolid
+115798,Baba,Getafe
+40958,Helder Postiga,Deportivo La Coruna
+604105,Ibai Gomez,Athletic Bilbao
+184114,Rene Krhin,Cordoba
+39854,Sergio Busquets,Barcelona
+522579,Pedro Rodriguez,Barcelona,Deportivo Alaves,Valencia
+211118,Rafael Martins,Levante
+173427,Nicolas Otamendi,Valencia,Levante
+113695,Cristian Alvarez,Rayo Vallecano
+46297,Miranda,Atletico Madrid
+150644,Jonathan Pereira,Rayo Vallecano
+174030,Jesus Fernandez,Levante
+179407,Pedro Lopez,Levante
+37597,David Navarro,Levante
+37480,Bruno Soriano,Villarreal,Deportivo La Coruna
+102630,Sergio Pelegrin,Elche
+183521,Fausto Rossi,Cordoba
+282060,Jose Maria Lopez Silva,Cordoba
+75331,Matos,Cordoba
+20645,Mike Havenaar,Cordoba
+75397,Alexis,Getafe,Paderborn
+574905,Nolito,Celta Vigo
+500791,Jonathas,Elche
+46621,Victor Camarasa,Levante,Las Palmas,Leganes
+183158,Hector Yuste,Granada
+30853,Mario Mandzukic,Atletico Madrid
+183327,Alvaro Gimenez,Elche
+192064,Yoel Rodriguez,Valencia,Rayo Vallecano,Eibar
+319975,Daniel Parejo,Valencia
+213684,Jordi Masip,Barcelona,Real Valladolid
+195305,Adriano,Barcelona,Real Betis,Borussia Dortmund
+26005,Thomas Vermaelen,Barcelona
+212472,Rafinha,Barcelona
+208926,Diogo Salomao,Deportivo La Coruna
+213499,Marcelo,Real Madrid
+261787,Iago Herrerin,Athletic Bilbao,Leganes
+38484,Juan Carlos,Villarreal
+441441,Ager Aketxe,Athletic Bilbao
+543312,Domingo Cisma,Elche
+39198,Samuel Garcia,Malaga
+479217,David Costas,Celta Vigo
+37456,David Cobeno,Rayo Vallecano
+33756,Juanfran,Deportivo La Coruna
+318526,Shkodran Mustafi,Valencia,Granada
+364244,Andreas Ivanschitz,Levante
+102572,Adrian Colunga,Granada
+101920,Jonathan Lopez,Getafe
+127894,Hector Rodas,Levante
+213649,Isaac Success,Granada
+41292,Angel Rodriguez,Eibar,Getafe
+38467,Mariano Damian Barbosa,Sevilla,Villarreal
+37434,Eduard Campabadal,Cordoba
+39331,Pablo Insua,Deportivo La Coruna
+172116,Gerard Pique,Barcelona,Sporting Gijon
+573463,Nordin Amrabat,Malaga
+289278,Piti,Granada,Leganes
+478390,Gonzalo Castro,Real Sociedad
+37622,Mane,Almeria
+532942,Pau Lopez,Espanyol,Real Betis
+74689,Jaime,Eibar
+607148,Yuri Berchiche,Real Sociedad
+100033,Damian Suarez,Getafe
+523390,Emiliano Buendia,Getafe,Rayo Vallecano,Valencia
+610184,Pedro Leon,Getafe
+45744,Adrian Lopez,Villarreal,Deportivo La Coruna
+39142,Henok Goitom,Getafe
+77741,Coke,Sevilla
+192770,Guilherme Siqueira,Valencia
+306407,Sebastian Cristoforo,Sevilla
+561433,Fernando Llorente,Sevilla
+33630,Ivan Cuellar,Sporting Gijon,Leganes
+396526,Ruben Blanco,Celta Vigo
+384374,Ognjen Vranjes,Sporting Gijon,Malaga
+239965,Luis Hernandez,Sporting Gijon
+198217,Jorge Mere,Sporting Gijon
+580589,Isma Lopez,Sporting Gijon,FC Cologne
+202639,Nacho Cases,Sporting Gijon,Eibar
+242477,Sergio Alvarez,Sporting Gijon
+17299,Carlos Carmona,Sporting Gijon
+541558,Pablo Perez,Sporting Gijon
+541557,Jony,Sporting Gijon,Deportivo Alaves,Malaga
+74169,Nolito,Celta Vigo,Valencia
+474448,Antonio Sanabria,Sporting Gijon,Real Betis
+130298,John Guidetti,Celta Vigo,Deportivo Alaves
+96651,Manu Fernandez,Deportivo La Coruna
+71498,Javi Varas,Las Palmas
+643570,David Garcia,Las Palmas
+74991,Mauricio Lemos,Las Palmas
+74989,Aythami Artiles,Las Palmas
+183497,Dani Castellano,Las Palmas
+37510,Roque Mesa,Las Palmas
+292262,Nili,Las Palmas,Sevilla
+213729,Tana,Las Palmas
+484906,Jonathan Viera,Las Palmas
+638105,Momo,Las Palmas
+190669,Sergio Ezequiel Araujo,Las Palmas
+616544,Inigo Lekue,Athletic Bilbao
+2802,Raul Baena,Rayo Vallecano
+104986,Andres Fernandez,Granada,Villarreal
+239350,Jean-Sylvain Babin,Granada
+150080,David Lomban,Granada
+49847,Marcelo Diaz,Celta Vigo,Hamburger SV
+495841,Adalberto Penaranda,Granada
+201111,Markel Bergara,Real Sociedad,Espanyol
+201939,Roberto Soldado,Villarreal
+678234,David Zurutuza,Real Sociedad
+40721,Carl Medjani,Levante,Leganes
+282473,Juanfran Garcia,Levante,Real Betis,Deportivo Alaves
+346379,Jefferson Lerma,Levante
+38699,Victor Casadesus,Levante,Celta Vigo
+40648,Antonio Adan,Real Betis
+268273,Heiko Westermann,Real Betis,Getafe
+27461,Bruno Gonzalez,Real Betis,Hamburger SV
+122047,Sergio Escudero,Sevilla
+186991,Martin Montoya,Real Betis
+37824,Alfred N'Diaye,Real Betis
+722766,Petros,Real Betis
+531629,Joaquin,Real Betis,Real Madrid
+103450,Yevheniy Konoplyanka,Sevilla,Schalke 04
+535600,Charly Musonda,Real Betis
+96652,Ruben Castro,Real Betis
+690308,Damian Suarez,Getafe
+150480,Luis Hernandez,Sporting Gijon
+395154,Alen Halilovic,Sporting Gijon,Las Palmas,Hamburger SV
+33958,Asier Riesgo,Eibar
+246218,David Junca,Eibar,Celta Vigo
+434404,Dani Garcia,Eibar
+97762,Gonzalo Escalante,Eibar,Real Betis,Eintracht Frankfurt
+156097,Adrian Gonzalez,Eibar,Real Valladolid,Malaga
+30914,Cristiano Biraghi,Granada
+37441,Verza,Levante
+476769,Deyverson,Levante,Deportivo Alaves,FC Cologne
+34952,Daniele Bonera,Villarreal
+208494,Casemiro,Real Madrid
+178955,Diego Godin,Atletico Madrid
+504606,Stefan Savic,Atletico Madrid
+354467,Yannick Ferreira-Carrasco,Atletico Madrid
+31047,Guillermo Ochoa,Malaga,Granada
+522203,Weligton,Malaga
+75445,Charles,Malaga,Real Valladolid,Sporting Gijon
+210164,Alphonse Areola,Villarreal
+420568,Bebé,Rayo Vallecano,Real Sociedad,Malaga
+629594,Denis Suarez,Villarreal,Deportivo Alaves
+202553,Antonio Luna,Eibar,Levante
+533227,Uche Henry Agbo,Granada
+193224,Sergi Enrich,Eibar
+314947,Roberto Correa,Espanyol
+88986,Salva Sevilla,Espanyol
+498033,Marco Asensio,Espanyol,Real Madrid
+573793,Mikel San Jose,Athletic Bilbao,Leganes
+33963,Javier Garrido,Las Palmas
+213916,Roque Mesa,Las Palmas
+179083,Willian Jose,Las Palmas,Real Sociedad
+359191,Omar Mascarell,Sporting Gijon,Eintracht Frankfurt,Schalke 04
+206301,Guerrero,Sporting Gijon,Leganes
+183548,Stefan Scepovic,Getafe
+489240,Jaume,Valencia
+361710,Antonio Barragan,Valencia
+570432,Daniel Parejo,Valencia
+358339,David Simon,Las Palmas
+50622,Vicente Gomez,Las Palmas
+452243,Joan Jordan,Espanyol,Deportivo Alaves,Sporting Gijon
+574662,Marco Asensio,Espanyol,Eibar
+574654,Carlos Castro,Sporting Gijon
+38064,Francisco Molinero,Real Betis,Getafe
+39719,Bruno Gonzalez,Real Betis
+209922,Victor Alvarez,Espanyol
+183350,Fabian,Real Betis
+605654,Alvaro Cejudo,Real Betis
+298940,Dani Garcia,Eibar
+635772,Cristiano Ronaldo,Real Madrid,Levante,Wolfsburg
+102394,Alberto Garcia,Sporting Gijon,Rayo Vallecano
+187360,Gonzalo Escalante,Eibar
+477615,Neymar,Barcelona,Sevilla,Malaga
+291635,Pedro Bigas,Las Palmas,Eibar
+517941,Cedric Bakambu,Villarreal,Real Betis
+303088,Roger,Levante
+51360,Jackson Martinez,Atletico Madrid
+639150,Sabin Merino,Athletic Bilbao,Leganes
+181984,Marco Andreolli,Sevilla
+161660,Ciro Immobile,Sevilla,Borussia Dortmund
+282689,Luis Hernandez,Sporting Gijon
+239964,Bruno Gonzalez,Real Betis,Valencia
+445907,Varela,Real Betis
+33128,Petros,Real Betis,Osasuna
+30840,Rafael van der Vaart,Real Betis,Hamburger SV
+261599,Adnane Tighadouini,Malaga
+40220,Ze Castro,Rayo Vallecano
+193226,Alfred N'Diaye,Real Betis,Getafe
+114746,Vincenzo Rennella,Real Betis
+316771,Gabi,Atletico Madrid
+432950,Angel Correa,Atletico Madrid
+432463,Sofiane Feghouli,Valencia,Deportivo La Coruna
+2983,Jorge Molina,Real Betis,Getafe
+105925,Willian Jose,Las Palmas
+361322,Esteban Granero,Real Sociedad,RasenBallsport Leipzig
+298327,Lora,Sporting Gijon
+466132,Augusto Fernandez,Celta Vigo
+638029,Fabian Orellana,Celta Vigo
+477595,Javier Noblejas,Getafe
+412762,Gabi,Atletico Madrid,Sevilla
+574656,Jony,Sporting Gijon
+580704,Alen Halilovic,Sporting Gijon
+710807,Raul Baena,Rayo Vallecano
+683450,Pablo Fornals,Malaga,Villarreal
+116750,Ricky van Wolfswinkel,Real Betis
+243781,Hernan,Las Palmas
+362194,Nicolas Lopez,Granada
+477604,Diego Mainz,Granada
+154256,Alvaro Cejudo,Real Betis,Sporting Gijon
+36130,Roberto Trashorras,Rayo Vallecano
+320686,David Lomban,Granada
+640231,Victor Alvarez,Espanyol
+75001,Juan Emmanuel Culio,Las Palmas
+150872,Wakaso Mubarak,Las Palmas,Deportivo Alaves,Granada
+291131,Andre Gomes,Valencia
+409005,Inigo Martinez,Real Sociedad,Granada
+102699,Petros,Real Betis
+33761,Wakaso Mubarak,Las Palmas
+196126,Daniel Gimenez,Real Betis
+477498,Raul Lizoain,Las Palmas
+675088,Samuel Castillejo,Villarreal,Atletico Madrid
+674492,Jose Matos,Sevilla
+358142,Vicente Iborra,Sevilla
+640725,Curro Sanchez,Sevilla
+244563,Takashi Inui,Eibar
+71602,Claudio Beauvue,Celta Vigo,Leganes
+202210,Leandro Damiao,Real Betis
+79742,Egor Filipenko,Malaga
+80265,Giedrius Arlauskis,Espanyol
+40001,Javi Lopez,Espanyol
+184554,Marc-Andre ter Stegen,Barcelona
+108809,Kike Sola,Athletic Bilbao
+172147,Cristiano Piccini,Real Betis
+317567,Hugo Fraile,Sporting Gijon
+495107,Jonathan Rodriguez,Deportivo La Coruna
+629579,Mamadou Sylla,Espanyol
+421365,Damian Suarez,Getafe
+169586,Bruno Gonzalez,Getafe
+215584,Mario Hermoso,Espanyol
+671203,Didac Vila,Espanyol
+737444,Amath Ndiaye,Getafe
+802987,Jose Manuel Jurado,Espanyol
+280818,Marko Dmitrovic,Eibar
+241059,Fernando Pacheco,Deportivo Alaves
+364239,Ivan Ramis,Eibar
+183101,Victor Laguardia,Deportivo Alaves
+244963,Rodrigo Ely,Deportivo Alaves
+821417,Ruben Duarte,Deportivo Alaves
+150630,Alfonso Pedraza,Deportivo Alaves
+359195,Ruben Sobrino,Deportivo Alaves
+183353,Kike,Eibar
+37623,Roberto,Malaga,Espanyol
+242418,Roberto Rosales,Malaga
+574631,Jesus Vallejo,Real Madrid,Eintracht Frankfurt
+724371,Theo Hernandez,Real Madrid,Real Sociedad,Deportivo Alaves
+297579,Adrian Gonzalez,Malaga,Leganes
+710479,Pedro Lopez,Levante
+495310,Erick Cabaco,Levante
+178120,Diego Godin,Atletico Madrid
+675710,Aly Abeid,Levante
+451984,Jose Campana,Levante
+213502,Jose Luis Morales,Levante
+254704,Roger,Levante
+670030,Inigo Cordoba,Athletic Bilbao
+185770,Lucas Perez,Deportivo La Coruna
+513707,Pedro Lopez,Real Betis
+266519,Aissa Mandi,Real Betis
+684723,Diego Gonzalez,Malaga
+210683,Junior Firpo,Real Betis
+743192,Riza Durmisi,Real Betis
+41467,Ryad Boudebouz,Real Betis
+166575,Mehdi Lacen,Malaga
+155623,Javi Garcia,Real Betis
+788555,Youssef En-Nesyri,Malaga,Leganes
+581919,David Soria,Sevilla,Getafe
+488412,Jesus Navas,Sevilla,Barcelona
+303224,Rober,Levante
+113668,Sergio Escudero,Sevilla
+592783,Enis Bardhi,Levante
+237542,Ever Banega,Sevilla,Mainz 05,Schalke 04
+556972,Jose Campana,Levante
+270774,Franco Vazquez,Sevilla
+561219,Emmanuel Boateng,Levante
+516854,Carlos Fernandez,Sevilla
+163805,Leandro Chichizola,Las Palmas
+303484,Alejandro Galvez,Las Palmas,Rayo Vallecano,Eibar,Werder Bremen
+736098,Nacho Gil,Las Palmas
+306117,Oghenekaro Etebo,Las Palmas
+639136,Alberto Aquilani,Las Palmas
+27694,Imoh Ezekiel,Las Palmas
+176186,Neto,Valencia
+193927,Paulo Oliveira,Eibar
+162497,David Lomban,Eibar,Villarreal
+536455,Carlos Soler,Valencia
+214972,Geoffrey Kondogbia,Valencia
+708890,Goncalo Guedes,Valencia
+470834,Nelson Semedo,Barcelona
+210117,Jordi Alba,Barcelona
+267863,Michael Krohn-Dehli,Deportivo La Coruna
+692984,Sergio Busquets,Barcelona,Borussia Dortmund
+244566,Borja Valle,Deportivo La Coruna
+212512,Jasper Cillessen,Barcelona
+202790,Alejandro Galvez,Las Palmas
+128721,Vicente Gomez,Las Palmas
+213704,Cristian Tello,Real Betis
+676536,Loren Moron,Real Betis
+491685,Pedro Lopez,Levante
+805352,Unai Nunez,Athletic Bilbao
+71724,Steven Nzonzi,Sevilla,Villarreal
+188116,Guido Pizarro,Sevilla
+196484,Franco Vazquez,Sevilla
+210184,Wissam Ben Yedder,Sevilla
+530460,Jose Campana,Levante
+31045,Junior Firpo,Real Betis
+482512,Sergio Leon,Real Betis,Osasuna
+340020,Yassine Bounou,Girona
+183454,Pablo Maffeo,Girona
+301543,Juanpe,Girona
+174862,Pedro Alcala,Girona
+673356,Aday,Girona,VfB Stuttgart
+243163,David Timor Copovi,Girona,Leganes
+207474,Tomas Pina,Deportivo Alaves
+642551,Borja Garcia,Girona
+429459,Anthony Lozano,Girona
+210282,Michael Olunga,Girona
+113318,Jonny,Celta Vigo
+308517,Pablo Hernandez,Celta Vigo
+687700,Iago Aspas,Celta Vigo
+683333,Emre Mor,Celta Vigo,Borussia Dortmund
+821311,Alen Halilovic,Las Palmas
+41466,Diego Lopez,Espanyol
+684981,David Lopez,Espanyol,Mainz 05
+186153,Jose Luis Morales,Levante
+24549,Giampaolo Pazzini,Levante
+636570,Hector Moreno,Real Sociedad,Real Madrid
+698653,Igor Zubeldia,Real Sociedad
+636565,Adnan Januzaj,Real Sociedad
+191140,Bernardo,Girona
+474673,Pablo Maffeo,Girona
+573752,Pere Pons,Girona
+391408,Alex Granell,Girona
+282692,Johan Mojica,Girona
+640122,Brais Mendez,Celta Vigo
+304673,Pione Sisto,Celta Vigo
+181995,Pablo Fornals,Villarreal
+784246,Roberto Soriano,Villarreal
+282461,Oscar de Marcos,Athletic Bilbao
+571623,Joseba Zaldua,Leganes
+35112,Simon Kjaer,Sevilla
+183198,Diego Rico,Leganes
+394585,Nabil El Zhar,Leganes
+75376,Julian Ramos Omar,Leganes
+522234,Gabriel,Leganes
+727088,Marc Bartra,Real Betis
+616529,Faycal Fajr,Getafe
+262394,Alvaro Jimenez,Getafe
+240047,Zouhair Feddal,Real Betis
+504617,Juan Narvaez,Real Betis
+464486,Roger Martinez,Villarreal,Real Valladolid
+479026,Enes Unal,Villarreal
+287231,Tana,Las Palmas,Mainz 05
+208096,Martin Mantovani,Leganes
+164029,Diego Rico,Leganes
+195698,Julian Ramos Omar,Leganes,Deportivo Alaves
+770880,Luca Zidane,Real Madrid
+195199,Pablo Fornals,Villarreal
+198556,Maksym Koval,Deportivo La Coruna
+37581,Ezequiel Garay,Valencia
+640238,Jose Gaya,Valencia
+939427,Luisinho,Deportivo La Coruna
+495962,Carlos Soler,Valencia,Getafe
+670416,Zakaria Bakkali,Deportivo La Coruna
+639450,Unai Nunez,Athletic Bilbao
+616545,Inigo Lekue,Athletic Bilbao,Leganes,Sporting Gijon
+640220,Pablo Piatti,Espanyol
+640089,Joan Jordan,Eibar
+690307,Alberto Redondo,Getafe
+938561,David Alba,Getafe
+867669,Amath Ndiaye,Getafe
+18721,Nereo Champagne,Leganes
+319827,Hector Moreno,Real Sociedad
+923762,Lucas Hernandez,Atletico Madrid
+30905,Sulley Ali Muntari,Deportivo La Coruna
+770881,Marcelo,Real Madrid,Borussia Dortmund
+561164,Maximiliano Gomez,Celta Vigo
+674518,Jeison Murillo,Valencia
+881771,Goncalo Guedes,Valencia
+441179,Andres Prieto,Malaga
+319631,Ever Banega,Sevilla
+174925,Tono,Real Sociedad
+625340,Gaku Shibasaki,Getafe
+156175,Tomas Vaclik,Sevilla
+654044,Arthur,Barcelona
+535596,Pablo Sarabia,Sevilla
+388523,Andre Silva,Sevilla
+190522,Alejandro Galvez,Rayo Vallecano
+713924,Sergio Akieme,Rayo Vallecano
+21414,Santi Comesana,Rayo Vallecano
+474658,Giannelli Imbula,Rayo Vallecano
+671865,Alvaro Garcia,Rayo Vallecano
+359196,Raul de Tomas,Rayo Vallecano
+130118,Joan Jordan,Eibar,Mainz 05
+425980,Aleksandar Jovanovic,SD Huesca
+489013,Jorge Miramon,SD Huesca
+213482,Jorge Pulido,SD Huesca
+477590,Ruben Semedo,SD Huesca
+640227,Carlos Akapo,SD Huesca
+595158,Damian Musto,SD Huesca
+361724,Moi Gomez,SD Huesca
+46933,Alex Gallar,SD Huesca
+609505,Hernan Perez,Espanyol
+852071,Samuele Longo,SD Huesca
+195589,Juan Hernandez,SD Huesca
+21613,Nikola Kalinic,Atletico Madrid
+369788,Daniel Carrico,Sevilla
+193174,Guilherme Arana,Sevilla
+530468,Antonio Sivera,Deportivo Alaves
+402830,Guillermo Maripan,Deportivo Alaves
+703642,Jaume Costa,Villarreal
+797927,Samuel Chukwueze,Villarreal
+688300,Pablo Fornals,Villarreal
+426906,Karl Toko Ekambi,Villarreal
+585352,Oscar Trejo,Rayo Vallecano
+941573,Carles Planas,Girona
+527549,Patrick Roberts,Girona
+79187,Seydou Doumbia,Girona
+468931,Rodri,Atletico Madrid
+290022,Ruben Rochina,Levante
+407786,Pablo Hervias,Eibar
+167623,Javi Moyano,Real Valladolid
+839232,Kiko,Real Valladolid
+477605,Fernando Calero,Real Valladolid
+639144,Antonito,Real Valladolid
+114670,Michel Herrero,Real Valladolid
+639384,Ruben Alcaraz,Real Valladolid
+595762,Duje Cop,Real Valladolid
+192293,Damian Musto,SD Huesca
+617220,Juan Aguilera,SD Huesca
+787350,Pere Pons,Girona
+207793,Facundo Roncaglia,Celta Vigo
+214339,Fran Beltran,Celta Vigo
+785511,Stanislav Lobotka,Celta Vigo
+660625,Unai Simon,Athletic Bilbao
+16475,Jose Campana,Levante
+359198,Oscar Plano,Real Valladolid
+317771,Unai Bustinza,Leganes
+642637,Jonathan Cristian Silva,Leganes
+863168,Oscar Rodriguez,Leganes
+784241,Santi Cazorla,Villarreal
+356438,Axel Werner,SD Huesca
+207642,Stefan Savic,Atletico Madrid
+839893,Aritz Elustondo,Real Sociedad
+678261,David Zurutuza,Real Sociedad
+257865,Giovani Lo Celso,Real Betis
+604126,Junior Firpo,Real Betis
+277849,Dimitris Siovas,Leganes
+267894,Sabin Merino,Leganes
+301463,Serdar Gurler,SD Huesca
+186919,David Ferreiro,SD Huesca
+40675,Moi Gomez,SD Huesca
+198235,Tomas Pina,Deportivo Alaves,Real Betis
+675102,Michael Santos,Leganes,Malaga
+561198,Mouctar Diakhaby,Valencia
+580591,Borja Fernandez,Real Valladolid
+466214,Junior Alonso,Celta Vigo
+951738,Francisco Montero,Atletico Madrid
+535603,Malcom,Barcelona
+791263,Jose Recio,Leganes
+49939,Arturo Vidal,Barcelona,Bayern Munich
+671945,Moi Gomez,SD Huesca,Eibar
+640611,Antonito,Real Valladolid
+254241,Stole Dimitrievski,Rayo Vallecano
+573748,Jorge Molina,Getafe
+206242,Tana,Las Palmas
+571451,Marko Livaja,Las Palmas
+315460,Ruben Vezo,Granada
+671595,Facundo Roncaglia,Celta Vigo
+154228,Matthieu Saunier,Granada
+213873,Gaston Silva,Granada
+611222,Pape Cheikh,Celta Vigo
+493216,Artem Kravets,Granada
+362674,Theo Bongonda,Celta Vigo
+107717,Andreas Pereira,Granada,VfB Stuttgart
+638639,Rafa Navarro,Real Betis
+210142,Ruben Pardo,Real Betis
+610537,Alexander Alegria,Real Betis
+602563,Victor Camarasa,Deportivo Alaves
+150832,Gaizka Toquero,Deportivo Alaves
+802505,Federico Ricca,Malaga
+696449,Jony,Malaga
+37604,Fernando Amorebieta,Sporting Gijon
+411616,Nabil El Zhar,Leganes
+288319,Adrian Ortola Vano,Deportivo Alaves
+274528,Daniel Torres,Deportivo Alaves
+121044,Ruben Sobrino,Deportivo Alaves
+288349,Christian Santos,Deportivo Alaves
+264293,Alvaro Cejudo,Real Betis
+530537,Alex Martinez,Real Betis
+127400,Pablo Sarabia,Sevilla
+27335,Kevin-Prince Boateng,Las Palmas,Schalke 04,Eintracht Frankfurt
+148335,Uche Henry Agbo,Granada
+97865,Mario Fernandez,Osasuna
+577625,Alex Berenguer,Osasuna
+72542,David Garcia,Osasuna
+574629,Oier,Osasuna
+451941,Unai Garcia,Osasuna
+282471,Carlos Clerc,Osasuna
+359697,Imanol Garcia,Osasuna
+300623,Roberto Torres,Osasuna
+776922,Goran Causic,Osasuna
+40945,Santi Mina,Valencia
+112207,Adrian Marin,Leganes
+145070,Ruben Vezo,Granada
+477613,Uche Henry Agbo,Granada
+652942,Omer Atzili,Granada
+432948,Fausto,Osasuna
+423663,Roberto Rosales,Malaga
+27659,Salvatore Sirigu,Osasuna
+97810,Nikola Vujadinovic,Osasuna
+640683,Juan Rafael Fuentes,Osasuna
+150754,Raoul Loe,Osasuna
+231811,Jaime,Osasuna
+574623,Kenan Kodro,Osasuna
+43294,Carles Gil,Deportivo La Coruna
+361723,Helder Lopes,Las Palmas
+30915,Faycal Fajr,Deportivo La Coruna
+553304,Serantes,Leganes
+93488,Roberto Rosales,Malaga
+358654,David Timor Copovi,Leganes
+25772,Pablo Fornals,Malaga
+399130,Luciano Neves,Leganes
+573791,Unai Lopez,Leganes
+188533,Petros,Real Betis
+658786,Andreas Pereira,Granada
+169755,Nauzet Perez,Osasuna
+641026,Tano Bonnin,Osasuna
+639782,Ivan Marquez,Osasuna
+105827,Roberto Torres,Osasuna
+38886,Alex Berenguer,Osasuna
+164031,Yannick Ferreira-Carrasco,Atletico Madrid
+33865,Miguel Flano,Osasuna
+517300,Mikel Oyarzabal,Real Sociedad
+677249,Bruno Gama,Deportivo La Coruna
+42594,German Pezzella,Real Betis
+150383,Roman Zozulya,Real Betis
+50345,Adrian Ramos,Granada,Borussia Dortmund
+590474,Jaime,Osasuna
+198499,Aleksandar Katai,Deportivo Alaves
+688345,Aly Malle,Granada
+540113,Marlon,Barcelona
+229844,Edu Exposito,Deportivo La Coruna
+837089,Ola John,Deportivo La Coruna
+108075,Fernando Amorebieta,Sporting Gijon
+688278,Pervis Estupinan,Granada
+150297,Carlos Carmona,Sporting Gijon
+797758,Hector Hernandez,Granada
+589897,Cristian Espinoza,Deportivo Alaves
+202341,Matthieu Saunier,Granada
+115847,Mariano,Sevilla,Hannover 96
+107541,Denys Boyko,Malaga
+170322,Koen Casteels,Werder Bremen,Wolfsburg
+80229,Hiroki Sakai,Hannover 96
+36180,Theodor Gebre Selassie,Werder Bremen
+116645,Marcelo,Hannover 96
+25483,Christian Schulz,Hannover 96
+107588,Assani Lukimya-Mulongoti,Werder Bremen
+78908,Miiko Albornoz,Hannover 96
+278823,Janek Sternberg,Werder Bremen
+240367,Hiroshi Kiyotake,Hannover 96,Schalke 04
+35989,Izet Hajrovic,Werder Bremen
+179491,Edgar Prib,Hannover 96
+177475,Clemens Fritz,Werder Bremen
+36186,Manuel Schmiedebach,Hannover 96
+42860,Philipp Bargfrede,Werder Bremen
+94916,Salif Sane,Hannover 96,Borussia Moenchengladbach
+134217,Zlatko Junuzovic,Werder Bremen
+49825,Franco Di Santo,Werder Bremen,Schalke 04
+26330,Jimmy Briand,Hannover 96
+501568,Davie Selke,Werder Bremen,Hertha Berlin,RasenBallsport Leipzig
+41618,Yann Sommer,Borussia Moenchengladbach
+26588,Roel Brouwers,Borussia Moenchengladbach
+34114,Tin Jedvaj,Bayer Leverkusen
+33579,Tony Jantschke,Borussia Moenchengladbach
+427062,Omer Toprak,Bayer Leverkusen
+114025,Julian Korb,Borussia Moenchengladbach
+487867,Roberto Hilbert,Bayer Leverkusen
+278815,Oscar Wendt,Borussia Moenchengladbach,Hannover 96
+109615,Wendell,Bayer Leverkusen,Borussia Dortmund
+192625,Christoph Kramer,Borussia Moenchengladbach
+27429,Lars Bender,Bayer Leverkusen
+25819,Patrick Herrmann,Borussia Moenchengladbach
+37357,Raffael,Borussia Moenchengladbach
+37373,Julian Brandt,Bayer Leverkusen
+269788,Fabian Johnson,Borussia Moenchengladbach,Bayer Leverkusen
+304733,Hakan Calhanoglu,Bayer Leverkusen
+516846,Heung-Min Son,Bayer Leverkusen
+58346,Max Kruse,Borussia Moenchengladbach,Wolfsburg,Werder Bremen
+31199,Stefan Kiessling,Bayer Leverkusen
+30660,Pepe Reina,Bayern Munich
+114737,Marwin Hitz,Augsburg,Borussia Dortmund
+38432,Mitchell Weiser,Bayern Munich,Wolfsburg
+26618,Paul Verhaegh,Augsburg,Wolfsburg
+36183,Jerome Boateng,Bayern Munich
+282691,Dante,Bayern Munich
+298823,Juan Bernat,Bayern Munich,Hertha Berlin,Bayer Leverkusen
+245526,Abdul Rahman Baba,Augsburg
+172949,Philipp Lahm,Bayern Munich
+35997,Daniel Baier,Augsburg
+30894,Thiago Alcantara,Bayern Munich
+36035,Dominik Kohr,Augsburg
+37319,Markus Feulner,Augsburg
+93447,Thomas Mueller,Bayern Munich
+147735,Halil Altintop,Augsburg,Hertha Berlin
+177714,Mario Goetze,Bayern Munich,Borussia Dortmund
+303905,Alexander Esswein,Augsburg,Bayer Leverkusen
+116772,Robert Lewandowski,Bayern Munich
+66940,Raul Marcelo Bobadilla,Augsburg
+69149,Mitchell Langerak,Borussia Dortmund,VfB Stuttgart
+36878,Thomas Kraft,Hertha Berlin
+71399,Erik Durm,Borussia Dortmund,FC Cologne
+12330,Peter Pekarik,Hertha Berlin
+36388,Neven Subotic,Borussia Dortmund,Bayern Munich
+95081,Sebastian Langkamp,Hertha Berlin,Werder Bremen
+94685,Mats Hummels,Borussia Dortmund
+229759,John Anthony Brooks,Hertha Berlin
+278831,Marvin Plattenhardt,Hertha Berlin,Wolfsburg
+30707,Ilkay Guendogan,Borussia Dortmund
+40108,Per Ciljan Skjelbred,Hertha Berlin
+144993,Sebastian Kehl,Borussia Dortmund
+91984,Fabian Lustenberger,Hertha Berlin
+166452,Genki Haraguchi,Hertha Berlin,Hannover 96
+212960,Valentin Stocker,Hertha Berlin,Hoffenheim,Borussia Moenchengladbach
+185175,Henrikh Mkhitaryan,Borussia Dortmund,Bayer Leverkusen,RasenBallsport Leipzig
+42297,Nico Schulz,Hertha Berlin
+31906,Salomon Kalou,Hertha Berlin
+94841,Sven Ulreich,VfB Stuttgart,Bayern Munich
+97734,Daniel Schwaab,VfB Stuttgart
+36806,Niko Bungert,Mainz 05
+45272,Florian Klein,VfB Stuttgart
+171472,Stefan Bell,Mainz 05
+193901,Nikolce Noveski,Mainz 05
+514301,Antonio Ruediger,VfB Stuttgart
+36000,Pierre Bengtsson,Mainz 05
+27234,Geoffroy Serey Die,VfB Stuttgart,Hannover 96,Werder Bremen
+141145,Christian Gentner,VfB Stuttgart,Wolfsburg
+180126,Julian Baumgartlinger,Mainz 05
+281012,Martin Harnik,VfB Stuttgart,Hamburger SV,Eintracht Frankfurt
+278863,Jairo,Mainz 05,Wolfsburg
+27324,Daniel Didavi,VfB Stuttgart
+59595,Yunus Malli,Mainz 05,Bayer Leverkusen
+132843,Filip Kostic,VfB Stuttgart
+177720,Daniel Ginczek,VfB Stuttgart,Wolfsburg
+112978,Roman Buerki,Freiburg,Borussia Dortmund
+10950,Mensur Mujdza,Freiburg
+196203,Pavel Krmas,Freiburg
+9079,Stefan Mitrovic,Freiburg
+355358,Christian Guenter,Freiburg
+27314,Leon Andreasen,Hannover 96
+196311,Nicolas Hoefler,Freiburg,Hertha Berlin
+240837,Jonathan Schmid,Freiburg,Hoffenheim,Augsburg
+212865,Vladimir Darida,Freiburg
+33065,Karim Guede,Freiburg
+237541,Felix Klaus,Freiburg,Hannover 96
+132844,Admir Mehmedi,Freiburg,Bayer Leverkusen
+178778,Oliver Baumann,Hoffenheim
+39841,Andreas Beck,Hoffenheim,VfB Stuttgart
+303914,Tobias Strobl,Hoffenheim,Borussia Moenchengladbach
+30839,Sebastian Langkamp,Hertha Berlin
+443966,David Abraham,Hoffenheim
+18904,Jeremy Toljan,Hoffenheim,Eintracht Frankfurt
+119525,Sebastian Rudy,Hoffenheim,Bayern Munich,Schalke 04
+27420,Pirmin Schwegler,Hoffenheim
+34267,Eugen Polanski,Hoffenheim,Hannover 96
+71605,Roberto Firmino,Hoffenheim,FC Cologne
+212893,Anthony Modeste,Hoffenheim,Bayer Leverkusen
+264190,Thorgan Hazard,Borussia Moenchengladbach
+26982,Dominik Kohr,Augsburg
+27299,Manuel Neuer,Bayern Munich
+27303,Dante,Bayern Munich
+30889,Philipp Lahm,Bayern Munich
+94915,Yunus Malli,Mainz 05
+27358,Roman Weidenfeller,Borussia Dortmund
+469764,Fin Bartels,Werder Bremen,Bayer Leverkusen,Mainz 05
+164259,Felix Kroos,Werder Bremen
+35852,Marnon-Thomas Busch,Werder Bremen
+129944,Marco Reus,Borussia Dortmund
+571379,Levin Mete Oztunali,Werder Bremen
+49586,Ralf Faehrmann,Schalke 04
+37335,Lukas Kruse,Paderborn
+68253,Benedikt Hoewedes,Schalke 04
+35708,Michael Heinloth,Paderborn
+97727,Christian Strohdiek,Paderborn
+213485,Sead Kolasinac,Schalke 04
+35828,Uwe Huenemeier,Paderborn
+464500,Daniel Brueckner,Paderborn
+182892,Suleyman Koc,Paderborn,VfB Stuttgart,Hoffenheim
+269666,Mario Vrancic,Paderborn,Hannover 96
+36379,Moritz Stoppelkamp,Paderborn,Darmstadt
+33338,Max Meyer,Schalke 04,VfB Stuttgart
+26928,Lukas Rupp,Paderborn
+26437,Eric Maxim Choupo-Moting,Schalke 04
+208208,Marvin Bakalorz,Paderborn
+36784,Klaas Jan Huntelaar,Schalke 04
+36389,Srdjan Lakic,Paderborn
+30820,Diego Benaglio,Wolfsburg
+167065,Naldo,Wolfsburg
+28480,Timm Klose,Wolfsburg,Schalke 04
+115591,Ricardo Rodriguez,Wolfsburg
+188498,Maximilian Arnold,Wolfsburg,Schalke 04
+163670,Ivan Perisic,Wolfsburg
+161421,Joshua Guilavogui,Wolfsburg
+298915,Kevin De Bruyne,Wolfsburg
+104045,Bas Dost,Wolfsburg
+309496,Jin-Su Kim,Hoffenheim
+58354,Simon Rolfes,Bayer Leverkusen,Eintracht Frankfurt
+27866,Eugen Polanski,Hoffenheim
+208230,Heung-Min Son,Bayer Leverkusen
+27255,Thomas Kessler,FC Cologne
+36395,Miso Brecko,FC Cologne
+36934,Dominic Maroh,FC Cologne
+130667,Pierre Bengtsson,Mainz 05,Borussia Dortmund
+307210,Mergim Mavraj,FC Cologne
+28435,Jonas Hector,FC Cologne,Hamburger SV
+167589,Marcel Risse,FC Cologne,Hoffenheim
+127945,Adam Matuschyk,FC Cologne
+201888,Johannes Geis,Mainz 05,Augsburg
+185336,Kevin Vogt,FC Cologne
+459493,Kazuki Nagasawa,FC Cologne
+166449,Yuya Osako,FC Cologne,Werder Bremen
+313825,Baard Finne,FC Cologne
+49885,Daniel Brosinski,Mainz 05
+113340,Jens Hegeler,Hertha Berlin
+39379,Valentin Stocker,Hertha Berlin
+178804,Christian Clemens,Mainz 05,Schalke 04,FC Cologne
+141161,Julian Schieber,Hertha Berlin,Augsburg
+37879,Marc Torrejon Moya,Freiburg
+303913,Oliver Sorg,Freiburg,Hannover 96
+13518,Mats Hummels,Borussia Dortmund
+37042,Vladimir Darida,Freiburg
+27365,Shinji Kagawa,Borussia Dortmund,Werder Bremen
+214123,Nils Petersen,Freiburg
+107920,Mats Moeller Daehli,Freiburg,Werder Bremen
+408986,Timon Wellenreuther,Schalke 04
+114044,Roel Brouwers,Borussia Moenchengladbach
+190796,Marco Hoeger,Schalke 04,FC Cologne
+72813,Jan Kirchhoff,Schalke 04
+30937,Christian Fuchs,Schalke 04
+212815,Timo Horn,FC Cologne
+212377,Kevin Wimmer,FC Cologne
+24138,Baard Finne,FC Cologne
+22824,Dusan Svento,FC Cologne
+94883,Marvin Bakalorz,Paderborn
+36086,Daniel Halfar,FC Cologne
+196366,Anthony Ujah,FC Cologne,Werder Bremen,Mainz 05
+157252,Daniel Schwaab,VfB Stuttgart,Hamburger SV
+46875,Dante,Bayern Munich
+29471,Georg Niedermaier,VfB Stuttgart
+121633,David Alaba,Bayern Munich
+212892,Florian Klein,VfB Stuttgart,Borussia Dortmund,Augsburg
+89240,Moritz Leitner,VfB Stuttgart
+30834,Robert Lewandowski,Bayern Munich
+36084,Vedad Ibisevic,VfB Stuttgart,Hertha Berlin
+40735,Oscar Wendt,Borussia Moenchengladbach
+450980,Timo Werner,VfB Stuttgart,RasenBallsport Leipzig
+258245,Max Kruse,Borussia Moenchengladbach,Eintracht Frankfurt
+24104,Jaroslav Drobny,Hamburger SV,Werder Bremen
+30986,Ashton-Phillip Goetz,Hamburger SV
+30987,Johan Djourou,Hamburger SV
+93064,Slobodan Rajkovic,Hamburger SV,Darmstadt
+571709,Marcell Jansen,Hamburger SV
+10967,Nicolai Mueller,Hamburger SV
+13428,Slawomir Peszko,FC Cologne
+601592,Petr Jiracek,Hamburger SV
+97747,Mohamed Gouaida,Hamburger SV,Eintracht Frankfurt
+30764,Ivica Olic,Hamburger SV,Wolfsburg
+39566,Alex Manninger,Augsburg
+177942,David Abraham,Hoffenheim
+27425,Markus Feulner,Augsburg
+36011,Sejad Salihovic,Hoffenheim
+40193,Vieirinha,Wolfsburg
+259296,Robin Knoche,Wolfsburg
+141370,Juan Bernat,Bayern Munich,Borussia Dortmund
+147729,Kevin De Bruyne,Wolfsburg
+141082,Jens Wemmer,Paderborn
+94164,Lukas Rupp,Paderborn
+145550,Kevin Trapp,Eintracht Frankfurt
+106309,Timothy Chandler,Eintracht Frankfurt
+155534,Carlos Zambrano,Eintracht Frankfurt,Schalke 04
+34420,Alexander Madlung,Eintracht Frankfurt
+129462,Felipe,Hannover 96
+158234,Bastian Oczipka,Eintracht Frankfurt
+38647,Makoto Hasebe,Eintracht Frankfurt
+30530,Takashi Inui,Eintracht Frankfurt
+212814,Sonny Kittel,Eintracht Frankfurt,Ingolstadt
+170775,Haris Seferovic,Eintracht Frankfurt
+27478,Alexander Meier,Eintracht Frankfurt
+47357,Didier Konan Ya,Hannover 96
+31290,Stefan Mitrovic,Freiburg,Schalke 04
+343748,Marco Hoeger,Schalke 04,Bayern Munich
+150922,Caiuby,Augsburg
+447084,Andreas Beck,Hoffenheim,Bayern Munich
+36774,Adam Szalai,Hoffenheim,Hannover 96
+240348,Johan Djourou,Hamburger SV,Hannover 96
+20125,Per Ciljan Skjelbred,Hertha Berlin
+178781,Valon Behrami,Hamburger SV
+27155,Roy Beerens,Hertha Berlin,Eintracht Frankfurt,Darmstadt
+193530,Pierre-Michel Lasogga,Hamburger SV
+94139,Raphael Wolf,Werder Bremen
+196205,Clemens Fritz,Werder Bremen
+154245,Sebastian Proedl,Werder Bremen,Darmstadt
+27512,Alejandro Galvez,Werder Bremen
+238438,Simon Zoller,FC Cologne
+177953,Felix Wiedwald,Eintracht Frankfurt,Werder Bremen
+36479,Thorsten Kirschbaum,VfB Stuttgart
+145561,Anderson,Eintracht Frankfurt
+167094,Bastian Oczipka,Eintracht Frankfurt,Freiburg
+27475,Lucas Piazon,Eintracht Frankfurt
+267380,Marco Russ,Eintracht Frankfurt
+121093,Alexandru Maxim,VfB Stuttgart
+298923,Filip Kostic,VfB Stuttgart
+145551,Dennis Aogo,Schalke 04
+448806,Sebastian Kerk,Freiburg,Nuernberg
+71560,Eric Maxim Choupo-Moting,Schalke 04,Darmstadt
+37389,Sebastian Freis,Freiburg
+30924,Xabi Alonso,Bayern Munich
+355357,Alexander Meier,Eintracht Frankfurt
+119838,Marc Stendera,Eintracht Frankfurt
+72707,Tim Matavz,Augsburg
+26255,Giulio Donati,Bayer Leverkusen,Hamburger SV
+51841,Niko Bungert,Mainz 05,Darmstadt
+191080,Wendell,Bayer Leverkusen,Mainz 05
+331542,Jonas Hofmann,Mainz 05,Borussia Moenchengladbach,Borussia Dortmund
+36410,Nicklas Bendtner,Wolfsburg
+317822,Oriol Romeu,VfB Stuttgart
+355356,Marc Torrejon Moya,Freiburg
+36771,Admir Mehmedi,Freiburg
+532738,Maximilian Philipp,Freiburg,Borussia Dortmund
+31718,Haris Seferovic,Eintracht Frankfurt
+94886,Juan Bernat,Bayern Munich,VfB Stuttgart,Schalke 04
+566785,Gianluca Gaudino,Bayern Munich
+37374,Sebastian Kehl,Borussia Dortmund,Bayer Leverkusen
+94652,Kevin Grosskreutz,Borussia Dortmund,VfB Stuttgart
+38364,Joo-Ho Park,Mainz 05
+450976,Yannick Gerhardt,FC Cologne,Wolfsburg
+58351,Christoph Kramer,Borussia Moenchengladbach
+27310,Emir Spahic,Bayer Leverkusen
+27427,Hakan Calhanoglu,Bayer Leverkusen,Borussia Dortmund,VfB Stuttgart
+307069,Heiko Westermann,Hamburger SV
+107281,Tolgay Arslan,Hamburger SV
+128827,Nicolai Mueller,Hamburger SV
+27316,Luiz Gustavo,Wolfsburg,Hamburger SV
+36057,Fabian Lustenberger,Hertha Berlin
+40605,Roy Beerens,Hertha Berlin
+140965,Nikola Djurdjic,Augsburg
+359202,Zlatko Junuzovic,Werder Bremen
+291015,Florian Hartherz,Paderborn
+94289,Mario Vrancic,Paderborn
+22313,Pablo De Blasis,Mainz 05
+26545,Ronny,Hertha Berlin,Darmstadt
+94885,Sven Schipplock,Hoffenheim,Hamburger SV,Darmstadt
+469705,Stefan Kutschke,Paderborn
+570956,Hiroshi Kiyotake,Hannover 96
+441164,Joel Matip,Schalke 04,Eintracht Frankfurt,Fortuna Duesseldorf
+243164,Kevin-Prince Boateng,Schalke 04,Wolfsburg
+30250,Manuel Schmiedebach,Hannover 96
+260470,Edgar Prib,Hannover 96,FC Cologne,Hoffenheim
+26195,Felix Kroos,Werder Bremen
+37317,Sebastian Jung,Wolfsburg
+553597,David Kinsombi,Eintracht Frankfurt
+141113,Dennis Diekmeier,Hamburger SV
+101501,Hakan Calhanoglu,Bayer Leverkusen,Hamburger SV
+114963,Fabian Giefer,Schalke 04
+281086,Christian Guenter,Freiburg,Darmstadt
+27424,Rene Adler,Hamburger SV,Mainz 05
+39847,Valon Behrami,Hamburger SV
+243829,Andre Hahn,Borussia Moenchengladbach,Hamburger SV,Augsburg
+242308,Dong-Won Ji,Augsburg
+331625,Heiko Westermann,Hamburger SV
+79982,Ivica Olic,Hamburger SV,FC Cologne
+614449,Nadiem Amiri,Hoffenheim
+43319,Henrikh Mkhitaryan,Borussia Dortmund,Wolfsburg
+16300,Ivica Olic,Hamburger SV,Augsburg
+194533,Stefan Kiessling,Bayer Leverkusen,Borussia Moenchengladbach,Hamburger SV
+140819,Roberto Firmino,Hoffenheim
+27418,Mats Hummels,Borussia Dortmund
+28081,Carlos Zambrano,Eintracht Frankfurt
+354495,Vieirinha,Wolfsburg
+303912,Sokratis Papastathopoulos,Borussia Dortmund,Borussia Moenchengladbach
+387727,Pierre-Emerick Aubameyang,Borussia Dortmund,FC Cologne
+95094,Sascha Moelders,Augsburg
+158257,Vaclav Kadlec,Eintracht Frankfurt
+27774,Christian Traesch,Wolfsburg
+20396,Roman Neustaedter,Schalke 04
+27376,Max Gruen,Wolfsburg
+40094,Rune Almenning Jarstein,Hertha Berlin
+40985,Fabian Lustenberger,Hertha Berlin
+78314,Manuel Schmiedebach,Hannover 96
+25990,Salif Sane,Hannover 96
+614212,Felix Platte,Schalke 04,Darmstadt
+95228,Suat Serdar,Mainz 05
+176953,Karim Onisiwo,Mainz 05
+120845,Aaron Hunt,Hamburger SV
+667790,Jairo,Mainz 05,Schalke 04
+521421,Marco Reus,Borussia Dortmund
+36146,Medhi Benatia,Bayern Munich
+517346,Haavard Nordtveit,Borussia Moenchengladbach
+469701,Ibrahima Traore,Borussia Moenchengladbach,Borussia Dortmund
+460632,Juan Bernat,Bayern Munich
+429265,Mario Goetze,Bayern Munich
+172887,Junior Caicara,Schalke 04
+664970,Miiko Albornoz,Hannover 96
+375732,Hiroshi Kiyotake,Hannover 96
+692973,Felix Klaus,Hannover 96
+69008,Artur Sobiech,Hannover 96
+73409,Oerjan Haaskjold Nyland,Ingolstadt
+145536,Danny da Costa,Ingolstadt,Hoffenheim
+240537,Marvin Matip,Ingolstadt,Eintracht Frankfurt,Bayer Leverkusen
+555385,Benjamin Huebner,Ingolstadt,Nuernberg,Werder Bremen
+27550,Robert Bauer,Ingolstadt
+239946,Pascal Gross,Ingolstadt,Fortuna Duesseldorf
+34675,Roger Bernardo,Ingolstadt
+664585,Philipp Ochs,Hoffenheim
+212819,Mark Uth,Hoffenheim,Schalke 04
+171091,Moritz Hartmann,Ingolstadt
+433951,Dario Lezcano,Ingolstadt
+104646,Stefan Lex,Ingolstadt
+748432,Miiko Albornoz,Hannover 96
+501569,Iver Fossum,Hannover 96
+94658,Tom Mickel,Hamburger SV
+111858,Daniel Opare,Augsburg
+29543,Jeong-Ho Hong,Augsburg
+488298,Philipp Max,Augsburg
+114650,Jan Moravek,Augsburg
+198316,Nicolai Mueller,Hamburger SV,Augsburg
+182893,Emiliano Insua,VfB Stuttgart,Fortuna Duesseldorf
+520342,Max Kruse,Wolfsburg
+29529,Dario Kresic,Bayer Leverkusen
+251244,Roberto Hilbert,Bayer Leverkusen,Mainz 05
+681383,Benjamin Henrichs,Bayer Leverkusen
+50638,Karim Bellarabi,Bayer Leverkusen
+174093,Almog Cohen,Ingolstadt
+185014,Moritz Hartmann,Ingolstadt,Hertha Berlin
+303800,Pawel Olkowski,FC Cologne,Freiburg
+259439,Filip Mladenovic,FC Cologne
+103686,Hakan Calhanoglu,Bayer Leverkusen
+143442,Kevin Grosskreutz,VfB Stuttgart
+276700,Toni Sunjic,VfB Stuttgart
+426873,Niko Bungert,Mainz 05
+66757,Lukas Hradecky,Eintracht Frankfurt,Bayer Leverkusen
+668362,Yanni Regaesel,Eintracht Frankfurt,Hertha Berlin
+39045,Anis Ben-Hatira,Eintracht Frankfurt
+189237,Luc Castaignos,Eintracht Frankfurt
+231753,Dominic Maroh,FC Cologne
+617044,Fin Bartels,Werder Bremen,Hoffenheim
+25366,Claudio Pizarro,Werder Bremen,FC Cologne
+111897,Stefan Aigner,Eintracht Frankfurt
+169569,Edgar Prib,Hannover 96,Darmstadt
+162679,Julian Baumgartlinger,Mainz 05
+212915,Hotaru Yamaguchi,Hannover 96,Fortuna Duesseldorf
+176201,Uffe Bech,Hannover 96
+204169,Manuel Schmiedebach,Hannover 96
+37550,Hugo Almeida,Hannover 96
+42909,Ramazan Oezcan,Ingolstadt,Bayer Leverkusen
+531014,Max Christiansen,Ingolstadt
+195207,Andreas Christensen,Borussia Moenchengladbach,Augsburg
+637199,Leon Guwara,Werder Bremen,Darmstadt
+467318,Clemens Fritz,Werder Bremen,Darmstadt
+212156,Pavel Kaderabek,Hoffenheim
+469700,Tin Jedvaj,Bayer Leverkusen
+117432,Kevin Volland,Hoffenheim
+156726,Kingsley Coman,Bayern Munich
+245315,Dominik Kohr,Augsburg
+261653,Karim Bellarabi,Bayer Leverkusen
+461357,Max Meyer,Schalke 04
+425962,Mitchell Weiser,Hertha Berlin
+94009,Danny da Costa,Ingolstadt
+212881,Vladimir Darida,Hertha Berlin
+493160,Fin Bartels,Werder Bremen
+448805,Christian Mathenia,Darmstadt,Hamburger SV,Nuernberg
+119427,Gyorgy Garics,Darmstadt
+41930,Aytac Sulu,Darmstadt
+335436,Peter Niemeyer,Darmstadt,Werder Bremen,Freiburg
+27352,Jerome Gondorf,Darmstadt
+36554,Marcel Heller,Darmstadt
+115670,Konstantin Rausch,Darmstadt,FC Cologne
+36889,Sandro Wagner,Darmstadt,Bayern Munich,Hoffenheim
+71768,Nicolai Mueller,Hamburger SV
+36380,Marvin Matip,Ingolstadt
+177941,Philipp Hosiner,FC Cologne
+176831,Matthew Leckie,Ingolstadt
+37410,Rafinha,Bayern Munich
+310355,Luca Caldirola,Darmstadt
+172388,Aron Johannsson,Werder Bremen
+94876,Aytac Sulu,Darmstadt
+207039,Danny da Costa,Ingolstadt
+141114,Marcel Heller,Darmstadt
+30249,Kevin Kuranyi,Hoffenheim
+520979,Jannik Vestergaard,Werder Bremen
+29340,Marcel Heller,Darmstadt
+166917,Levin Mete Oztunali,Werder Bremen
+515333,Sambou Yatabare,Werder Bremen
+179511,Alessandro Schoepf,Schalke 04
+667787,Kyriakos Papadopoulos,Bayer Leverkusen
+469763,Uffe Bech,Hannover 96
+614384,Maximilian Mittelstaedt,Hertha Berlin
+365624,Federico Barba,VfB Stuttgart
+688295,Shinji Kagawa,Borussia Dortmund
+638778,Joshua Guilavogui,Wolfsburg
+553557,Lewis Holtby,Hamburger SV
+459000,Gaetan Bussmann,Mainz 05
+27485,Dominik Stroh-Engel,Darmstadt
+448859,Stefan Reinartz,Eintracht Frankfurt
+553598,Joel Gerezgiher,Eintracht Frankfurt
+112119,Edgar Prib,Hannover 96
+26374,Mevlut Erdinc,Hannover 96
+304355,Odisseas Vlachodimos,VfB Stuttgart
+536440,Santiago Garcia,Werder Bremen
+162680,Sandro Sirigu,Darmstadt
+298163,Danny da Costa,Eintracht Frankfurt
+240205,David Abraham,Eintracht Frankfurt
+844430,Mats Hummels,Bayern Munich
+473852,Sebastian Rudy,Bayern Munich
+674499,Niklas Dorsch,Bayern Munich
+556029,Mijat Gacinovic,Eintracht Frankfurt,Borussia Dortmund
+767795,Sandro Wagner,Bayern Munich
+463291,Luka Jovic,Eintracht Frankfurt
+859751,Frank Evina,Bayern Munich
+248437,Alexander Schwolow,Freiburg
+178800,Lukas Kuebler,Freiburg
+307209,Manuel Gulde,Freiburg
+149909,Julian Schuster,Freiburg,Hoffenheim
+872742,Tim Handwerker,FC Cologne
+95095,Yuya Osako,FC Cologne,VfB Stuttgart
+442728,Tim Kleindienst,Freiburg
+178771,Andreas Luthe,Augsburg
+282286,Niklas Stark,Hertha Berlin
+304348,Rani Khedira,Augsburg
+642418,Michael Gregoritsch,Augsburg
+321140,Salomon Kalou,Hertha Berlin
+604088,Naldo,Schalke 04
+598355,Christoph Kramer,Borussia Moenchengladbach
+118335,Guido Burgstaller,Schalke 04
+780815,Yevheniy Konoplyanka,Schalke 04
+719055,Tin Jedvaj,Bayer Leverkusen
+611223,Holger Badstuber,VfB Stuttgart
+671331,Kai Havertz,Bayer Leverkusen
+724854,Santiago Ascacibar,VfB Stuttgart
+749736,Leon Bailey,Bayer Leverkusen
+519093,Dennis Aogo,VfB Stuttgart
+269222,Karim Bellarabi,Bayer Leverkusen
+27326,Daniel Ginczek,VfB Stuttgart,Wolfsburg
+754126,Martin Hinteregger,Augsburg
+304354,Nicolas Hoefler,Freiburg
+151001,Peter Gulacsi,RasenBallsport Leipzig
+658554,Konrad Laimer,RasenBallsport Leipzig
+820140,Ibrahima Konate,RasenBallsport Leipzig
+526657,Dayot Upamecano,RasenBallsport Leipzig
+700074,Marvin Plattenhardt,Hertha Berlin
+526827,Lukas Klostermann,RasenBallsport Leipzig
+239911,Naby Keita,RasenBallsport Leipzig
+589349,Jean-Kevin Augustin,RasenBallsport Leipzig
+614454,Christian Gentner,VfB Stuttgart
+765693,Erik Thommy,VfB Stuttgart
+538336,Chadrac Akolo,VfB Stuttgart
+521318,Lukasz Piszczek,Borussia Dortmund
+353519,Ermin Bicakcic,Hoffenheim
+846381,Christian Pulisic,Borussia Dortmund
+352994,Raphael Guerreiro,Borussia Dortmund
+431992,Danny da Costa,Eintracht Frankfurt
+848266,Daniel Caligiuri,Schalke 04
+42119,Marius Wolf,Eintracht Frankfurt
+352968,Sebastien Haller,Eintracht Frankfurt
+433513,Julian Pollersbeck,Hamburger SV
+346000,Gotoku Sakai,Hamburger SV
+355382,Tatsuya Ito,Hamburger SV
+843782,Ville Matti Steinmann,Hamburger SV
+243925,Bobby Wood,Hamburger SV,Hannover 96
+429697,Jiri Pavlenka,Werder Bremen
+767789,Marco Friedl,Werder Bremen
+170218,Maximilian Eggestein,Werder Bremen,Borussia Dortmund
+602523,Philipp Bargfrede,Werder Bremen
+187358,Zlatko Junuzovic,Werder Bremen
+861445,Thorgan Hazard,Borussia Moenchengladbach
+581920,William,Wolfsburg
+184821,Jeffrey Bruma,Wolfsburg
+767800,Robin Knoche,Wolfsburg
+384376,Joshua Guilavogui,Wolfsburg
+213061,Diego Demme,RasenBallsport Leipzig
+688668,Josip Brekalo,Wolfsburg,VfB Stuttgart
+710328,Jannes-Kilian Horn,FC Cologne,Wolfsburg
+574633,Simon Zoller,FC Cologne
+628201,Marco Terrazzino,Freiburg
+556524,Nils Petersen,Freiburg
+690302,Gotoku Sakai,Hamburger SV
+822788,Vladimir Darida,Hertha Berlin
+844432,Jann-Fiete Arp,Hamburger SV
+118296,Dayot Upamecano,RasenBallsport Leipzig
+215151,Yussuf Poulsen,RasenBallsport Leipzig
+266527,Marcel Sabitzer,RasenBallsport Leipzig
+513503,Pascal Stenzel,Freiburg
+926447,William,Wolfsburg
+634310,Vincent Sierro,Freiburg
+703044,Josip Brekalo,Wolfsburg
+617195,Florian Kath,Freiburg
+656530,Michael Gregoritsch,Augsburg
+36022,Philipp Tschauner,Hannover 96
+316583,Oliver Sorg,Hannover 96
+458630,Ihlas Bebou,Hannover 96
+276791,Niclas Fuellkrug,Hannover 96
+182106,Florian Kainz,Werder Bremen
+189190,Emiliano Insua,VfB Stuttgart,Fortuna Duesseldorf
+900537,Gideon Jung,Hamburger SV
+540073,Gian-Luca Waldschmidt,Hamburger SV,Freiburg
+278856,Ibrahima Konate,RasenBallsport Leipzig
+171980,Naby Keita,RasenBallsport Leipzig
+445226,Danny Latza,Mainz 05
+352066,Emil Berggreen,Mainz 05
+469760,Martin Hinteregger,Augsburg
+538540,Walace,Hamburger SV,Hannover 96
+494695,Marcin Kaminski,VfB Stuttgart
+430856,Christian Gentner,VfB Stuttgart,Hannover 96
+737365,Florian Mueller,Mainz 05
+563215,Jean-Philippe Gbamin,Mainz 05,Borussia Dortmund
+30598,Karim Onisiwo,Mainz 05
+279392,Anthony Ujah,Mainz 05
+307235,Marko Pjaca,Schalke 04
+281857,Theodor Gebre Selassie,Werder Bremen
+46078,Niklas Moisander,Werder Bremen
+660165,Max Kruse,Werder Bremen
+265725,Sebastien Haller,Eintracht Frankfurt
+24123,Danny da Costa,Eintracht Frankfurt
+350634,Matthew Leckie,Hertha Berlin
+803027,Aymen Barkok,Eintracht Frankfurt
+385437,Serge Gnabry,Hoffenheim,Bayern Munich,Werder Bremen
+682385,Salif Sane,Hannover 96
+467479,Felix Uduokhai,Wolfsburg
+763998,Bakery Jatta,Hamburger SV
+527103,Guido Burgstaller,Schalke 04
+643724,Philipp Lienhart,Freiburg
+127224,Pascal Stenzel,Freiburg
+852347,Lukasz Piszczek,Borussia Dortmund
+39591,Raphael Guerreiro,Borussia Dortmund
+95216,Michael Lang,Borussia Moenchengladbach
+294859,Alassane Plea,Borussia Moenchengladbach
+212906,Michael Esser,Hannover 96,Darmstadt
+27284,Michael Rensing,Fortuna Duesseldorf
+359312,Kaan Ayhan,Fortuna Duesseldorf
+244558,Marcel Tisserand,Wolfsburg
+725729,Robin Bormuth,Fortuna Duesseldorf
+488564,Niko Giesselmann,Fortuna Duesseldorf
+466357,Jerome Roussillon,Wolfsburg,Ingolstadt
+27534,Matthias Zimmermann,Fortuna Duesseldorf
+289248,Dodi Lukebakio,Fortuna Duesseldorf
+688876,Rouwen Hennings,Fortuna Duesseldorf
+351999,Wout Weghorst,Wolfsburg
+27156,Benito Raman,Fortuna Duesseldorf
+592102,Aaron Caricol,Mainz 05
+639434,Pierre Kunde,Mainz 05
+402975,Levin Mete Oztunali,Mainz 05
+706297,Jean-Paul Boetius,Mainz 05
+298448,Davy Klaassen,Werder Bremen
+764507,Jonas Hofmann,Borussia Moenchengladbach
+556505,Robin Zentner,Mainz 05
+331540,Leonardo Bittencourt,Hoffenheim
+535936,Joelinton,Hoffenheim
+655575,Jacob Bruun Larsen,Borussia Dortmund
+276739,Adam Bodzek,Fortuna Duesseldorf
+166653,Kevin Stoeger,Fortuna Duesseldorf,Augsburg
+760743,Ondrej Duda,Hertha Berlin
+522236,Fabian Bredlow,Nuernberg
+208193,Enrico Valentini,Nuernberg
+458997,Georg Margreitter,Nuernberg
+602304,Dayot Upamecano,RasenBallsport Leipzig
+746794,Lukas Muehl,Nuernberg
+331535,Marcel Halstenberg,RasenBallsport Leipzig
+95252,Tim Leibold,Nuernberg
+794408,Eduard Loewen,Nuernberg
+178782,Ondrej Petrak,Nuernberg
+229723,Hanno Behrens,Nuernberg
+200601,Yuya Kubo,Nuernberg
+302079,Mikael Ishak,Nuernberg
+253120,Virgil Misidjan,Nuernberg
+423812,Aaron Caricol,Mainz 05
+883087,Bote Baku,Mainz 05
+947901,Jonathan Burkardt,Mainz 05
+782154,Daniel Caligiuri,Schalke 04
+450978,Benito Raman,Fortuna Duesseldorf
+589344,Renato Sanches,Bayern Munich
+583601,Robin Koch,Freiburg
+276760,Marco Terrazzino,Freiburg
+787242,Marco Russ,Eintracht Frankfurt
+303879,Makoto Hasebe,Eintracht Frankfurt
+676625,Lucas Torro,Eintracht Frankfurt,Hertha Berlin
+522651,Eduard Loewen,Nuernberg
+343757,Marvin Ducksch,Fortuna Duesseldorf
+278917,Ondrej Petrak,Nuernberg
+768486,Yuya Kubo,Nuernberg
+861447,Louis Beyer,Borussia Moenchengladbach
+930035,Linton Maina,Hannover 96
+186557,Frederik Roennow,Eintracht Frankfurt
+182867,Taleb Tawatha,Eintracht Frankfurt
+839038,Yannick Gerhardt,Wolfsburg
+586691,Kasim Nuhu,Hoffenheim
+748382,Vincenzo Grifo,Hoffenheim
+400625,Joelinton,Hoffenheim,Freiburg
+554534,Alexander Nuebel,Schalke 04
+432828,Adam Zrelak,Nuernberg
+519268,Mikael Ishak,Nuernberg
+557325,Stefan Posch,Hoffenheim
+389845,Joshua Brenet,Hoffenheim
+643577,Konrad Laimer,RasenBallsport Leipzig
+841672,Mario Gomez,VfB Stuttgart
+638127,Nuri Sahin,Werder Bremen
+774625,Philipp Max,Augsburg
+872712,Yuya Kubo,Nuernberg
+212982,Steven Skrzybski,Schalke 04
+39022,Oliver Fink,Fortuna Duesseldorf
+562801,Marvin Plattenhardt,Hertha Berlin
+463284,Ondrej Duda,Hertha Berlin
+118308,Pavao Pervan,Wolfsburg
+673377,Patrick Erras,Nuernberg
+837651,Ondrej Duda,Hertha Berlin
+622091,Borna Sosa,VfB Stuttgart
+629112,Patrick Herrmann,Borussia Moenchengladbach
+47532,Martin Hansen,Ingolstadt
+27411,Bernardo,RasenBallsport Leipzig
+33473,Tom Starke,Bayern Munich
+266518,Sandro Sirigu,Darmstadt
+27300,Jerome Gondorf,Darmstadt
+267992,Mario Vrancic,Darmstadt
+179393,Niklas Moisander,Werder Bremen
+406501,Daniel Heuer Fernandes,Darmstadt
+41923,Patrick Banggaard,Darmstadt
+496045,Antonio-Mirko Colak,Darmstadt
+556503,Jannik Huth,Mainz 05
+664552,Dominique Heintz,FC Cologne
+625091,Robin Quaison,Mainz 05
+770038,Matthias Ostrzolek,Hamburger SV
+214617,David Abraham,Eintracht Frankfurt
+231199,Maximilian Arnold,Wolfsburg
+554530,Konstantinos Stafylidis,Augsburg
+103478,Peter Niemeyer,Darmstadt
+660148,Matthias Ginter,Borussia Dortmund
+293560,Terrence Boyd,Darmstadt
+120900,Heinz Lindner,Eintracht Frankfurt
+143823,Florian Jungwirth,Darmstadt
+658805,Ousman Manneh,Werder Bremen
+343766,Roger Bernardo,Ingolstadt
+642534,Jonas Foehrenbach,Freiburg
+637753,Marcel Schmelzer,Borussia Dortmund
+738064,Konstantin Rausch,FC Cologne
+441879,Andersson Ordonez,Eintracht Frankfurt
+609504,Diego Demme,RasenBallsport Leipzig
+317713,Amir Abrashi,Freiburg
+451983,Mijat Gacinovic,Eintracht Frankfurt
+194423,Danny Blum,Eintracht Frankfurt
+696433,Fabian Reese,Schalke 04
+147614,Ludovic Lamine Sane,Werder Bremen
+200964,Zlatko Junuzovic,Werder Bremen
+763991,Sven Mueller,FC Cologne
+461359,Willi Orban,RasenBallsport Leipzig
+659093,Makoto Hasebe,Eintracht Frankfurt

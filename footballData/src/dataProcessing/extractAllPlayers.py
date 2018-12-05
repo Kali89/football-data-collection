@@ -5,10 +5,10 @@ Created on Jun 15, 2016
 '''
 import os
 import xml.etree.ElementTree as ET
-import collections 
+import collections
 
-matchDirectory = os.getcwd() + '..\\..\\..\\footballData\\matches\\'
-playersListDirectory = os.getcwd() + '..\\..\\..\\DATA\\players_list\\'
+matchDirectory = '/Users/msharpe/src/personal/football-data-collection/footballData/footballData/spiders/matches'
+playersListDirectory = '/Users/msharpe/src/personal/football-data-collection/footballData/footballData/spiders/players'
 count = 0
 playersDict = collections.OrderedDict()
 print "Player extract started..."
@@ -20,49 +20,52 @@ for (dirname, dirs, files) in os.walk(matchDirectory):
             xmlstr = fh.read()
             try:
                 parsedXML = ET.fromstring(xmlstr)
-                lstHomeId = parsedXML.findall('homePlayersId/value') 
-                lstAwayId = parsedXML.findall('awayPlayersId/value') 
-                lstHome = parsedXML.findall('homePlayers/value') 
-                lstAway = parsedXML.findall('awayPlayers/value') 
-                homeTeamFullName = parsedXML.findall('homeTeamFullName/value')[0].text
-                awayTeamFullName = parsedXML.findall('awayTeamFullName/value')[0].text
-                 
+                lstHomeId = parsedXML.findall('homePlayersId/value')
+                lstAwayId = parsedXML.findall('awayPlayersId/value')
+                lstHome = parsedXML.findall('homePlayers/value')
+                lstAway = parsedXML.findall('awayPlayers/value')
+                homeTeamFullName = parsedXML.find('homeTeamFullName/value').text
+                awayTeamFullName = parsedXML.find('awayTeamFullName/value').text
                 for i in range(0,11):
                     playerHomeId = lstHomeId[i].text
                     playerAwayId = lstAwayId[i].text
                     playerHome = lstHome[i].text
                     playerAway = lstAway[i].text
-            
+
                     if playerHomeId in playersDict: #Existing Player
+                        print("Existing player")
                         playerHomeDict = playersDict[playerHomeId]
                         clubs = playerHomeDict['clubs']
                         if homeTeamFullName not in clubs:
                             playerHomeDict['clubs'].append(homeTeamFullName)
                     else: #New Player
+                        print("Adding new player")
                         playerHomeDict = dict()
                         playerHomeDict['name'] = playerHome
                         clubs = list()
                         clubs.append(homeTeamFullName)
                         playerHomeDict['clubs'] = clubs
                         playersDict[playerHomeId] = playerHomeDict
-                        
+
                     if playerAwayId in playersDict: #Existing Player
+                        print("Away player existing")
                         playerAwayDict = playersDict[playerAwayId]
                         clubs = playerAwayDict['clubs']
                         if awayTeamFullName not in clubs:
                             playerAwayDict['clubs'].append(awayTeamFullName)
                     else: #New Player
+                        print("New away player")
                         playerAwayDict = dict()
                         playerAwayDict['name'] = playerAway
                         clubs = list()
                         clubs.append(awayTeamFullName)
                         playerAwayDict['clubs'] = clubs
                         playersDict[playerAwayId] = playerAwayDict
-                    
+
             except:
                 print 'Error with file: ' + thefile
-                
-            count = count + 1 
+
+            count = count + 1
 
 with open(playersListDirectory + "1_players_list_all.txt","w+") as f:
     for player in playersDict:

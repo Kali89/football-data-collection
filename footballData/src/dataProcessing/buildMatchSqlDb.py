@@ -77,38 +77,21 @@ def saveMatch(dirname,filename,count):
             "SELECT id FROM Country WHERE name = '%s' " % country,
             cur
         )
-#        cur.execute('''INSERT INTO Country (name) VALUES ( %s )''', ( country, ))
-#        cur.execute('SELECT id FROM Country WHERE name = %s ', (country, ))
-#        country_id = cur.fetchone()[0]
         league_id = get_item(
             "INSERT INTO League (country_id, name) VALUES ( '%s', '%s' )" % (country_id, league),
             "SELECT id FROM League WHERE name = '%s' " % league,
             cur
         )
-#        cur.execute('''INSERT INTO League (country_id, name)
-#                    VALUES ( %s, %s )''', (country_id, league, ) )
-#        cur.execute('SELECT id FROM League WHERE name = %s ', (league, ))
-#        league_id = cur.fetchone()[0]
         home_team_api_id = get_item(
             "INSERT INTO Team (team_api_id,team_long_name,team_short_name) VALUES ( '%s', '%s', '%s')" % (homeTeamApiId, homeTeamFullName,homeTeamAcronym),
             "SELECT team_api_id FROM Team WHERE team_api_id = '%s' " % homeTeamApiId,
             cur
         )
-#        cur.execute('''INSERT INTO Team (team_api_id,team_long_name,team_short_name)
-#                        VALUES ( %s, %s, %s)''', (homeTeamApiId, homeTeamFullName,homeTeamAcronym,))
-#        cur.execute('SELECT team_api_id FROM Team WHERE team_api_id = %s ', (homeTeamApiId, ))
-#        home_team_api_id = cur.fetchone()[0]
         away_team_api_id = get_item(
             "INSERT INTO Team (team_api_id,team_long_name,team_short_name) VALUES ( '%s', '%s', '%s' )" % (awayTeamApiId, awayTeamFullName,awayTeamAcronym),
             "SELECT team_api_id FROM Team WHERE team_api_id = '%s' " % (awayTeamApiId ),
             cur
         )
-#        cur.execute('''INSERT INTO Team (team_api_id,team_long_name,team_short_name)
-#                        VALUES ( %s, %s, %s )''', (awayTeamApiId, awayTeamFullName,awayTeamAcronym,))
-#        cur.execute('SELECT team_api_id FROM Team WHERE team_api_id = %s ', (awayTeamApiId, ))
-#        away_team_api_id = cur.fetchone()[0]
-
-
         cur.execute("INSERT INTO Match (country_id,league_id,season,stage,date, match_api_id, home_team_api_id, away_team_api_id, home_team_goal,away_team_goal) VALUES ( '%s', '%s', '%s', '%s', '%s', '%s', '%s', '%s', '%s', '%s')" % ( country_id, league_id,season,stage,matchDate, matchApiId,home_team_api_id,away_team_api_id,homeTeamGoal,awayTeamGoal))
         cur.execute("SELECT id FROM Match WHERE match_api_id = '%s' " % matchApiId)
         match_id = cur.fetchone()[0]
@@ -191,33 +174,32 @@ def saveMatch(dirname,filename,count):
             pass
 
         #Squad parsing
-#        for i in range(0,11):
-#
+        for i in range(0,11):
+                try:
+                    homePlayerApiId = int(lstHomePlayerId[i].text)
+                    awayPlayerApiId = int(lstAwayPlayerId[i].text)
+                except:
+                    return printError(country,season,matchApiId,count, filename)
+
+                try:
+                    cur.execute("SELECT id FROM Player WHERE player_api_id = '%s' " % (homePlayerApiId))
+                    home_player_id = cur.fetchone()[0]
+                    cur.execute("Update Match SET home_player_" + str(i+1) + "='%s' WHERE match_api_id='%s'" % (homePlayerApiId,matchApiId))
+                except:
+                    pass
+
+                try:
+                    cur.execute("SELECT id FROM Player WHERE player_api_id = '%s' " % (awayPlayerApiId ))
+                    away_player_id = cur.fetchone()[0]
+                    cur.execute("Update Match SET away_player_" + str(i+1) + "='%s' WHERE match_api_id='%s'" % (awayPlayerApiId,matchApiId))
+                except:
+                    pass
+
 #                try:
-#                    homePlayerApiId = int(lstHomePlayerId[i].text)
-#                    awayPlayerApiId = int(lstAwayPlayerId[i].text)
-#                except:
-#                    return printError(country,season,matchApiId,count, filename)
-#
-#                try:
-#                    cur.execute('SELECT id FROM Player WHERE player_api_id = %s ', (homePlayerApiId, ))
-#                    home_player_id = cur.fetchone()[0]
-#                    cur.execute('Update Match SET home_player_' + str(i+1) + '=%s WHERE match_api_id=%s', (homePlayerApiId,matchApiId))
-#                except:
-#                    pass
-#
-#                try:
-#                    cur.execute('SELECT id FROM Player WHERE player_api_id = %s ', (awayPlayerApiId, ))
-#                    away_player_id = cur.fetchone()[0]
-#                    cur.execute('Update Match SET away_player_' + str(i+1) + '=%s WHERE match_api_id=%s', (awayPlayerApiId,matchApiId))
-#                except:
-#                    pass
-#
-#                try:
-#                    cur.execute('Update Match SET home_player_X' + str(i+1) + '=%s WHERE match_api_id=%s', (int(lstHomePlayerX[i].text),matchApiId))
-#                    cur.execute('Update Match SET home_player_Y' + str(i+1) + '=%s WHERE match_api_id=%s', (int(lstHomePlayerY[i].text),matchApiId))
-#                    cur.execute('Update Match SET away_player_X' + str(i+1) + '=%s WHERE match_api_id=%s', (int(lstAwayPlayerX[i].text),matchApiId))
-#                    cur.execute('Update Match SET away_player_Y' + str(i+1) + '=%s WHERE match_api_id=%s', (int(lstAwayPlayerY[i].text),matchApiId))
+#                    cur.execute("Update Match SET home_player_X" + str(i+1) + "='%s' WHERE match_api_id='%s'" % (int(lstHomePlayerX[i].text),matchApiId))
+#                    cur.execute("Update Match SET home_player_Y" + str(i+1) + "='%s' WHERE match_api_id='%s'" % (int(lstHomePlayerY[i].text),matchApiId))
+#                    cur.execute("Update Match SET away_player_X" + str(i+1) + "='%s' WHERE match_api_id='%s'" % (int(lstAwayPlayerX[i].text),matchApiId))
+#                    cur.execute("Update Match SET away_player_Y" + str(i+1) + "='%s' WHERE match_api_id='%s'", (int(lstAwayPlayerY[i].text),matchApiId))
 #                except:
 #                    pass
 
