@@ -9,3 +9,6 @@ footballData/footballData/__pycache__/items.cpython-36.pyc
 footballData/footballData/__pycache__/__init__.cpython-36.pyc
 *.pyc
 *.csv
+data/
+*.json
+*.tar
